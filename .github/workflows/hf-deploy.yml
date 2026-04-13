@@ -17,6 +17,14 @@ jobs:
       - name: Install git-lfs
         run: git lfs install
 
+      - name: Swap README for HuggingFace config
+        run: |
+          cp README_HF.md README.md
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "swap README for HF deploy" --allow-empty
+
       - name: Push to HuggingFace
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
