@@ -8,7 +8,7 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 
 # Install Python deps first (cache layer)
-COPY pyproject.toml ./
+COPY pyproject.toml README.md ./
 COPY src/datalens_ai/__init__.py src/datalens_ai/__init__.py
 RUN pip install --no-cache-dir ".[streamlit]"
 
