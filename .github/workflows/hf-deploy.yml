@@ -11,12 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           lfs: true
+
+      - name: Install git-lfs
+        run: git lfs install
 
       - name: Push to HuggingFace
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           git remote add hf https://mekalaajayk:${HF_TOKEN}@huggingface.co/spaces/mekalaajayk/datalens-ai || true
-          # NOTE: HuggingFace username is mekalaajayk, GitHub username is mekala27-45
           git push hf main --force
