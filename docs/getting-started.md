@@ -11,7 +11,7 @@ pip install datalens-ai[streamlit]
 ### From Source
 
 ```bash
-git clone https://github.com/mekalaajayk/datalens-ai.git
+git clone https://github.com/mekala27-45/datalens-ai.git
 cd datalens-ai
 pip install -e ".[dev,streamlit]"
 ```

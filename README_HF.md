@@ -21,4 +21,4 @@ AI-powered data analytics agent. Upload your data, ask questions in plain Englis
 - Data profiling with quality scoring
 - Export reports as HTML, PDF, Markdown, CSV
 
-[GitHub Repository](https://github.com/mekalaajayk/datalens-ai)
+[GitHub Repository](https://github.com/mekala27-45/datalens-ai)

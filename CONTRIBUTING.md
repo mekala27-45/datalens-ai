@@ -5,7 +5,7 @@ Thank you for your interest in contributing!
 ## Quick Start
 
 ```bash
-git clone https://github.com/mekalaajayk/datalens-ai.git
+git clone https://github.com/mekala27-45/datalens-ai.git
 cd datalens-ai
 pip install -e ".[all,dev,docs]"
 ```
@@ -27,4 +27,4 @@ pip install -e ".[all,dev,docs]"
 
 ## Reporting Issues
 
-Use the [GitHub issue templates](https://github.com/mekalaajayk/datalens-ai/issues/new/choose).
+Use the [GitHub issue templates](https://github.com/mekala27-45/datalens-ai/issues/new/choose).

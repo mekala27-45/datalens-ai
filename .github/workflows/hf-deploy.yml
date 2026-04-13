@@ -18,4 +18,5 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           git remote add hf https://mekalaajayk:${HF_TOKEN}@huggingface.co/spaces/mekalaajayk/datalens-ai || true
+          # NOTE: HuggingFace username is mekalaajayk, GitHub username is mekala27-45
           git push hf main --force

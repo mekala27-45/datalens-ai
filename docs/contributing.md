@@ -5,7 +5,7 @@ Contributions are welcome! Here's how to get started.
 ## Setup
 
 ```bash
-git clone https://github.com/mekalaajayk/datalens-ai.git
+git clone https://github.com/mekala27-45/datalens-ai.git
 cd datalens-ai
 pip install -e ".[all,dev,docs]"
 ```

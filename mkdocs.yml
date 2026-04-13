@@ -1,8 +1,8 @@
 site_name: DataLens AI
 site_description: AI-powered data analytics — upload data, ask questions in plain English, get insights
 site_author: Mekala Ajay
-repo_url: https://github.com/mekalaajayk/datalens-ai
-repo_name: mekalaajayk/datalens-ai
+repo_url: https://github.com/mekala27-45/datalens-ai
+repo_name: mekala27-45/datalens-ai
 
 theme:
   name: material
@@ -54,7 +54,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/mekalaajayk/datalens-ai
+      link: https://github.com/mekala27-45/datalens-ai
 
 nav:
   - Home: index.md

@@ -6,10 +6,10 @@
 
 *Upload your data. Ask questions in plain English. Get SQL, charts, and insights instantly.*
 
-[![CI](https://github.com/mekalaajayk/datalens-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/mekalaajayk/datalens-ai/actions/workflows/ci.yml)
+[![CI](https://github.com/mekala27-45/datalens-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/mekala27-45/datalens-ai/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![HuggingFace Spaces](https://img.shields.io/badge/%F0%9F%A4%97-Live%20Demo-yellow.svg)](https://huggingface.co/spaces/mekalaajayk/datalens-ai)
+[![HuggingFace Spaces](https://img.shields.io/badge/%F0%9F%A4%97-Live%20Demo-yellow.svg)](https://huggingface.co/spaces/mekala27-45/datalens-ai)
 
 </div>
 
@@ -129,7 +129,7 @@ datalens-ai/
 ## Development
 
 ```bash
-git clone https://github.com/mekalaajayk/datalens-ai.git
+git clone https://github.com/mekala27-45/datalens-ai.git
 cd datalens-ai
 pip install -e ".[all,dev]"
 
@@ -159,5 +159,5 @@ MIT License. See [LICENSE](LICENSE).
 
 **Mekala Ajay** — Data Analyst & AI Specialist
 
-- GitHub: [@mekalaajayk](https://github.com/mekalaajayk)
+- GitHub: [@mekala27-45](https://github.com/mekala27-45)
 - LinkedIn: [mekalaajayk](https://linkedin.com/in/mekalaajayk)
