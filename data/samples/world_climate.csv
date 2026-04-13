@@ -1,0 +1,601 @@
+city,country,continent,year,month,avg_temp_c,rainfall_mm,humidity_pct
+New York,USA,North America,2020,1,2.7,40.0,63.0
+New York,USA,North America,2020,2,2.6,140.6,37.4
+New York,USA,North America,2020,3,13.9,129.9,69.9
+New York,USA,North America,2020,4,10.0,18.2,66.6
+New York,USA,North America,2020,5,13.3,0,50.8
+New York,USA,North America,2020,6,17.7,120.2,46.3
+New York,USA,North America,2020,7,19.1,85.5,89.3
+New York,USA,North America,2020,8,19.6,89.6,72.2
+New York,USA,North America,2020,9,9.5,96.8,41.9
+New York,USA,North America,2020,10,14.1,58.0,51.7
+New York,USA,North America,2020,11,11.6,46.0,66.4
+New York,USA,North America,2020,12,1.0,111.3,66.2
+New York,USA,North America,2021,1,6.6,134.1,44.8
+New York,USA,North America,2021,2,5.3,184.8,84.2
+New York,USA,North America,2021,3,10.2,51.8,83.5
+New York,USA,North America,2021,4,13.7,58.6,52.6
+New York,USA,North America,2021,5,10.1,62.3,71.9
+New York,USA,North America,2021,6,19.5,106.7,75.5
+New York,USA,North America,2021,7,18.0,88.4,89.0
+New York,USA,North America,2021,8,20.6,88.0,42.6
+New York,USA,North America,2021,9,13.1,116.7,66.9
+New York,USA,North America,2021,10,9.1,0,52.5
+New York,USA,North America,2021,11,9.8,62.3,53.1
+New York,USA,North America,2021,12,4.9,0,76.8
+New York,USA,North America,2022,1,5.4,75.2,94.5
+New York,USA,North America,2022,2,6.2,86.7,30.0
+New York,USA,North America,2022,3,10.8,57.7,87.8
+New York,USA,North America,2022,4,14.1,98.8,85.8
+New York,USA,North America,2022,5,12.8,93.1,57.8
+New York,USA,North America,2022,6,21.3,110.5,38.9
+New York,USA,North America,2022,7,22.3,120.9,58.7
+New York,USA,North America,2022,8,18.3,124.1,81.2
+New York,USA,North America,2022,9,11.8,74.2,76.8
+New York,USA,North America,2022,10,12.0,90.6,64.7
+New York,USA,North America,2022,11,10.2,106.1,57.4
+New York,USA,North America,2022,12,3.0,63.4,81.4
+New York,USA,North America,2023,1,5.3,83.7,68.5
+New York,USA,North America,2023,2,4.1,114.3,82.7
+New York,USA,North America,2023,3,14.9,111.1,39.2
+New York,USA,North America,2023,4,14.8,128.1,59.4
+New York,USA,North America,2023,5,12.1,57.1,61.7
+New York,USA,North America,2023,6,21.3,164.5,65.3
+New York,USA,North America,2023,7,17.7,120.1,64.5
+New York,USA,North America,2023,8,18.8,75.0,71.7
+New York,USA,North America,2023,9,13.3,116.3,68.4
+New York,USA,North America,2023,10,12.5,55.9,64.8
+New York,USA,North America,2023,11,12.5,47.8,74.7
+New York,USA,North America,2023,12,5.4,41.3,96.8
+New York,USA,North America,2024,1,2.3,62.1,39.5
+New York,USA,North America,2024,2,4.1,14.4,58.7
+New York,USA,North America,2024,3,11.0,62.7,54.2
+New York,USA,North America,2024,4,15.0,18.3,30.2
+New York,USA,North America,2024,5,12.4,104.2,44.5
+New York,USA,North America,2024,6,19.8,148.1,71.7
+New York,USA,North America,2024,7,22.3,75.4,54.9
+New York,USA,North America,2024,8,18.0,121.2,61.3
+New York,USA,North America,2024,9,13.5,92.7,46.1
+New York,USA,North America,2024,10,9.2,135.8,60.1
+New York,USA,North America,2024,11,11.4,22.2,56.3
+New York,USA,North America,2024,12,4.7,49.2,51.7
+London,UK,Europe,2020,1,0.1,33.4,61.4
+London,UK,Europe,2020,2,4.3,106.3,100
+London,UK,Europe,2020,3,13.0,47.1,53.7
+London,UK,Europe,2020,4,8.4,46.2,88.6
+London,UK,Europe,2020,5,12.0,82.8,70.3
+London,UK,Europe,2020,6,20.3,112.3,56.5
+London,UK,Europe,2020,7,22.0,25.6,69.9
+London,UK,Europe,2020,8,20.5,104.6,62.4
+London,UK,Europe,2020,9,8.3,101.2,83.2
+London,UK,Europe,2020,10,8.4,24.8,46.6
+London,UK,Europe,2020,11,10.5,54.6,40.2
+London,UK,Europe,2020,12,4.5,96.5,61.0
+London,UK,Europe,2021,1,0.2,92.2,39.7
+London,UK,Europe,2021,2,4.2,0,51.5
+London,UK,Europe,2021,3,11.1,65.4,76.8
+London,UK,Europe,2021,4,8.9,55.6,49.9
+London,UK,Europe,2021,5,12.3,0,57.4
+London,UK,Europe,2021,6,21.6,118.4,78.8
+London,UK,Europe,2021,7,16.4,67.6,66.9
+London,UK,Europe,2021,8,21.2,115.2,51.1
+London,UK,Europe,2021,9,10.6,64.0,71.7
+London,UK,Europe,2021,10,12.1,115.6,75.8
+London,UK,Europe,2021,11,9.0,182.2,96.8
+London,UK,Europe,2021,12,1.6,33.3,67.0
+London,UK,Europe,2022,1,5.2,79.1,55.8
+London,UK,Europe,2022,2,2.0,85.3,71.3
+London,UK,Europe,2022,3,9.1,109.7,62.6
+London,UK,Europe,2022,4,14.0,74.2,75.4
+London,UK,Europe,2022,5,13.1,0,88.8
+London,UK,Europe,2022,6,17.5,143.1,95.2
+London,UK,Europe,2022,7,21.7,101.0,67.1
+London,UK,Europe,2022,8,21.5,108.4,20
+London,UK,Europe,2022,9,10.8,104.9,53.6
+London,UK,Europe,2022,10,12.6,66.8,54.3
+London,UK,Europe,2022,11,8.5,47.6,64.2
+London,UK,Europe,2022,12,0.9,5.5,70.4
+London,UK,Europe,2023,1,2.2,114.3,81.7
+London,UK,Europe,2023,2,1.2,73.3,45.4
+London,UK,Europe,2023,3,13.9,136.3,75.2
+London,UK,Europe,2023,4,13.0,99.4,54.6
+London,UK,Europe,2023,5,13.5,0,83.9
+London,UK,Europe,2023,6,17.2,71.1,65.5
+London,UK,Europe,2023,7,22.0,133.9,78.5
+London,UK,Europe,2023,8,18.1,44.2,80.2
+London,UK,Europe,2023,9,12.6,102.6,73.2
+London,UK,Europe,2023,10,12.7,87.2,56.7
+London,UK,Europe,2023,11,12.0,96.0,88.0
+London,UK,Europe,2023,12,1.2,141.1,71.0
+London,UK,Europe,2024,1,4.3,99.4,43.2
+London,UK,Europe,2024,2,4.3,117.3,71.2
+London,UK,Europe,2024,3,11.5,87.1,73.0
+London,UK,Europe,2024,4,13.6,134.4,70.2
+London,UK,Europe,2024,5,8.1,79.4,75.3
+London,UK,Europe,2024,6,20.6,76.8,45.6
+London,UK,Europe,2024,7,19.2,110.2,55.4
+London,UK,Europe,2024,8,17.7,45.2,80.2
+London,UK,Europe,2024,9,8.5,70.5,78.3
+London,UK,Europe,2024,10,11.3,98.0,59.4
+London,UK,Europe,2024,11,9.3,109.2,75.8
+London,UK,Europe,2024,12,4.3,23.1,47.1
+Tokyo,Japan,Asia,2020,1,8.1,143.9,89.0
+Tokyo,Japan,Asia,2020,2,7.4,64.5,66.8
+Tokyo,Japan,Asia,2020,3,17.9,46.7,56.0
+Tokyo,Japan,Asia,2020,4,17.1,48.9,75.0
+Tokyo,Japan,Asia,2020,5,17.0,93.6,76.3
+Tokyo,Japan,Asia,2020,6,24.0,72.5,62.4
+Tokyo,Japan,Asia,2020,7,23.7,118.2,75.4
+Tokyo,Japan,Asia,2020,8,21.9,87.1,44.4
+Tokyo,Japan,Asia,2020,9,14.7,26.6,28.2
+Tokyo,Japan,Asia,2020,10,15.6,32.4,63.0
+Tokyo,Japan,Asia,2020,11,13.2,66.8,57.1
+Tokyo,Japan,Asia,2020,12,10.0,86.4,91.3
+Tokyo,Japan,Asia,2021,1,4.2,26.0,52.5
+Tokyo,Japan,Asia,2021,2,7.6,121.5,53.4
+Tokyo,Japan,Asia,2021,3,15.1,75.6,75.1
+Tokyo,Japan,Asia,2021,4,16.2,93.8,66.3
+Tokyo,Japan,Asia,2021,5,15.6,32.9,79.1
+Tokyo,Japan,Asia,2021,6,24.0,169.7,59.0
+Tokyo,Japan,Asia,2021,7,24.7,72.9,43.1
+Tokyo,Japan,Asia,2021,8,20.8,142.7,66.2
+Tokyo,Japan,Asia,2021,9,17.3,95.9,46.8
+Tokyo,Japan,Asia,2021,10,15.8,74.4,49.8
+Tokyo,Japan,Asia,2021,11,14.7,116.6,64.0
+Tokyo,Japan,Asia,2021,12,6.8,121.7,44.6
+Tokyo,Japan,Asia,2022,1,7.5,40.5,62.8
+Tokyo,Japan,Asia,2022,2,7.4,35.2,81.1
+Tokyo,Japan,Asia,2022,3,17.3,119.0,65.1
+Tokyo,Japan,Asia,2022,4,13.1,97.2,78.5
+Tokyo,Japan,Asia,2022,5,13.0,99.7,73.4
+Tokyo,Japan,Asia,2022,6,24.6,103.0,87.5
+Tokyo,Japan,Asia,2022,7,21.8,0,45.7
+Tokyo,Japan,Asia,2022,8,21.4,56.1,52.4
+Tokyo,Japan,Asia,2022,9,17.5,93.5,74.7
+Tokyo,Japan,Asia,2022,10,15.4,41.7,87.4
+Tokyo,Japan,Asia,2022,11,14.5,15.8,73.7
+Tokyo,Japan,Asia,2022,12,6.2,82.4,67.3
+Tokyo,Japan,Asia,2023,1,6.9,92.3,66.7
+Tokyo,Japan,Asia,2023,2,9.1,92.4,65.8
+Tokyo,Japan,Asia,2023,3,16.8,43.5,67.0
+Tokyo,Japan,Asia,2023,4,16.0,81.8,89.3
+Tokyo,Japan,Asia,2023,5,13.0,64.8,43.1
+Tokyo,Japan,Asia,2023,6,22.8,85.9,37.4
+Tokyo,Japan,Asia,2023,7,21.0,95.8,52.8
+Tokyo,Japan,Asia,2023,8,23.0,96.9,75.3
+Tokyo,Japan,Asia,2023,9,17.9,64.4,71.7
+Tokyo,Japan,Asia,2023,10,16.8,60.9,63.1
+Tokyo,Japan,Asia,2023,11,12.1,29.5,60.2
+Tokyo,Japan,Asia,2023,12,8.3,60.5,40.4
+Tokyo,Japan,Asia,2024,1,5.2,84.6,58.3
+Tokyo,Japan,Asia,2024,2,5.9,108.7,57.5
+Tokyo,Japan,Asia,2024,3,16.6,112.6,51.2
+Tokyo,Japan,Asia,2024,4,13.2,33.1,67.7
+Tokyo,Japan,Asia,2024,5,14.2,86.3,62.6
+Tokyo,Japan,Asia,2024,6,26.0,119.6,39.7
+Tokyo,Japan,Asia,2024,7,23.7,126.3,66.4
+Tokyo,Japan,Asia,2024,8,20.6,23.5,82.0
+Tokyo,Japan,Asia,2024,9,16.6,78.9,53.1
+Tokyo,Japan,Asia,2024,10,17.7,95.6,72.7
+Tokyo,Japan,Asia,2024,11,16.5,95.1,43.1
+Tokyo,Japan,Asia,2024,12,6.5,143.8,58.2
+Sydney,Australia,Oceania,2020,1,24.5,42.3,65.4
+Sydney,Australia,Oceania,2020,2,28.8,74.4,81.1
+Sydney,Australia,Oceania,2020,3,18.3,134.3,74.0
+Sydney,Australia,Oceania,2020,4,20.4,64.9,57.3
+Sydney,Australia,Oceania,2020,5,20.7,105.3,67.5
+Sydney,Australia,Oceania,2020,6,9.6,114.9,61.8
+Sydney,Australia,Oceania,2020,7,8.1,18.2,56.7
+Sydney,Australia,Oceania,2020,8,11.4,49.8,72.1
+Sydney,Australia,Oceania,2020,9,20.5,71.5,62.3
+Sydney,Australia,Oceania,2020,10,17.7,70.9,76.7
+Sydney,Australia,Oceania,2020,11,15.3,90.1,48.8
+Sydney,Australia,Oceania,2020,12,26.7,29.9,64.7
+Sydney,Australia,Oceania,2021,1,27.5,97.7,68.9
+Sydney,Australia,Oceania,2021,2,26.1,21.7,56.4
+Sydney,Australia,Oceania,2021,3,19.0,56.3,91.5
+Sydney,Australia,Oceania,2021,4,20.7,116.8,94.8
+Sydney,Australia,Oceania,2021,5,16.8,96.6,55.0
+Sydney,Australia,Oceania,2021,6,10.2,79.4,59.7
+Sydney,Australia,Oceania,2021,7,7.7,126.0,44.4
+Sydney,Australia,Oceania,2021,8,9.3,120.9,49.0
+Sydney,Australia,Oceania,2021,9,15.4,88.0,64.4
+Sydney,Australia,Oceania,2021,10,17.0,49.4,84.4
+Sydney,Australia,Oceania,2021,11,17.3,103.8,65.1
+Sydney,Australia,Oceania,2021,12,27.8,79.6,79.8
+Sydney,Australia,Oceania,2022,1,25.6,6.9,71.1
+Sydney,Australia,Oceania,2022,2,26.5,24.5,39.2
+Sydney,Australia,Oceania,2022,3,17.6,77.7,71.9
+Sydney,Australia,Oceania,2022,4,17.0,99.3,64.0
+Sydney,Australia,Oceania,2022,5,18.4,43.8,43.9
+Sydney,Australia,Oceania,2022,6,12.9,61.1,60.1
+Sydney,Australia,Oceania,2022,7,10.0,113.6,62.4
+Sydney,Australia,Oceania,2022,8,10.4,92.4,61.6
+Sydney,Australia,Oceania,2022,9,20.0,134.8,77.7
+Sydney,Australia,Oceania,2022,10,16.3,74.4,72.8
+Sydney,Australia,Oceania,2022,11,18.3,57.0,43.5
+Sydney,Australia,Oceania,2022,12,23.0,89.1,48.4
+Sydney,Australia,Oceania,2023,1,24.9,149.7,65.1
+Sydney,Australia,Oceania,2023,2,24.0,28.4,90.0
+Sydney,Australia,Oceania,2023,3,16.2,51.2,64.2
+Sydney,Australia,Oceania,2023,4,20.3,95.0,66.9
+Sydney,Australia,Oceania,2023,5,16.8,42.8,78.3
+Sydney,Australia,Oceania,2023,6,12.8,132.4,73.0
+Sydney,Australia,Oceania,2023,7,7.3,99.1,43.1
+Sydney,Australia,Oceania,2023,8,7.5,85.5,83.7
+Sydney,Australia,Oceania,2023,9,18.5,115.0,79.1
+Sydney,Australia,Oceania,2023,10,19.7,12.6,86.9
+Sydney,Australia,Oceania,2023,11,17.0,16.9,54.8
+Sydney,Australia,Oceania,2023,12,27.4,6.9,49.3
+Sydney,Australia,Oceania,2024,1,26.5,53.8,63.8
+Sydney,Australia,Oceania,2024,2,25.6,61.5,59.9
+Sydney,Australia,Oceania,2024,3,15.0,104.4,65.9
+Sydney,Australia,Oceania,2024,4,20.7,47.9,59.2
+Sydney,Australia,Oceania,2024,5,16.0,121.6,32.5
+Sydney,Australia,Oceania,2024,6,10.4,84.9,39.5
+Sydney,Australia,Oceania,2024,7,12.6,69.1,78.0
+Sydney,Australia,Oceania,2024,8,12.5,133.7,74.4
+Sydney,Australia,Oceania,2024,9,15.9,77.1,59.5
+Sydney,Australia,Oceania,2024,10,15.8,72.5,52.9
+Sydney,Australia,Oceania,2024,11,17.1,81.4,64.0
+Sydney,Australia,Oceania,2024,12,28.2,116.2,43.9
+Mumbai,India,Asia,2020,1,16.2,187.7,80.0
+Mumbai,India,Asia,2020,2,17.3,80.9,60.8
+Mumbai,India,Asia,2020,3,29.6,21.4,65.5
+Mumbai,India,Asia,2020,4,26.1,94.7,78.5
+Mumbai,India,Asia,2020,5,27.2,55.5,69.6
+Mumbai,India,Asia,2020,6,36.1,189.9,39.3
+Mumbai,India,Asia,2020,7,37.4,115.9,41.1
+Mumbai,India,Asia,2020,8,36.3,47.4,38.0
+Mumbai,India,Asia,2020,9,30.0,36.9,49.6
+Mumbai,India,Asia,2020,10,29.7,28.1,72.5
+Mumbai,India,Asia,2020,11,24.6,109.2,77.2
+Mumbai,India,Asia,2020,12,16.3,38.9,50.3
+Mumbai,India,Asia,2021,1,21.4,59.4,58.1
+Mumbai,India,Asia,2021,2,20.0,52.3,56.4
+Mumbai,India,Asia,2021,3,28.1,120.7,36.5
+Mumbai,India,Asia,2021,4,25.2,85.6,77.8
+Mumbai,India,Asia,2021,5,29.2,23.3,64.1
+Mumbai,India,Asia,2021,6,36.3,127.9,77.0
+Mumbai,India,Asia,2021,7,32.9,124.5,73.1
+Mumbai,India,Asia,2021,8,36.0,58.8,53.8
+Mumbai,India,Asia,2021,9,28.1,59.4,20
+Mumbai,India,Asia,2021,10,28.9,116.8,39.5
+Mumbai,India,Asia,2021,11,28.2,35.2,50.5
+Mumbai,India,Asia,2021,12,18.4,0,53.5
+Mumbai,India,Asia,2022,1,18.2,60.4,70.4
+Mumbai,India,Asia,2022,2,16.8,96.7,68.2
+Mumbai,India,Asia,2022,3,26.5,29.5,63.2
+Mumbai,India,Asia,2022,4,25.6,118.7,78.8
+Mumbai,India,Asia,2022,5,27.3,100.6,66.0
+Mumbai,India,Asia,2022,6,36.8,90.2,67.4
+Mumbai,India,Asia,2022,7,35.2,148.9,74.4
+Mumbai,India,Asia,2022,8,37.4,97.0,92.1
+Mumbai,India,Asia,2022,9,27.3,103.7,80.7
+Mumbai,India,Asia,2022,10,26.0,54.5,95.0
+Mumbai,India,Asia,2022,11,24.2,26.0,76.4
+Mumbai,India,Asia,2022,12,20.9,65.4,36.9
+Mumbai,India,Asia,2023,1,21.5,143.2,71.1
+Mumbai,India,Asia,2023,2,20.2,34.8,68.7
+Mumbai,India,Asia,2023,3,26.6,13.2,56.9
+Mumbai,India,Asia,2023,4,27.8,101.8,57.9
+Mumbai,India,Asia,2023,5,27.9,48.0,65.7
+Mumbai,India,Asia,2023,6,37.9,119.6,68.9
+Mumbai,India,Asia,2023,7,35.7,155.4,67.1
+Mumbai,India,Asia,2023,8,34.7,136.8,48.2
+Mumbai,India,Asia,2023,9,29.4,133.4,91.3
+Mumbai,India,Asia,2023,10,28.0,47.0,56.1
+Mumbai,India,Asia,2023,11,26.4,56.9,69.0
+Mumbai,India,Asia,2023,12,19.6,63.2,68.8
+Mumbai,India,Asia,2024,1,18.3,90.4,55.4
+Mumbai,India,Asia,2024,2,16.8,110.2,63.1
+Mumbai,India,Asia,2024,3,26.8,53.0,87.8
+Mumbai,India,Asia,2024,4,29.3,32.8,94.5
+Mumbai,India,Asia,2024,5,24.8,82.3,42.6
+Mumbai,India,Asia,2024,6,32.8,135.0,29.7
+Mumbai,India,Asia,2024,7,32.5,102.1,50.2
+Mumbai,India,Asia,2024,8,36.6,58.6,61.0
+Mumbai,India,Asia,2024,9,28.6,82.5,82.0
+Mumbai,India,Asia,2024,10,25.6,146.2,53.9
+Mumbai,India,Asia,2024,11,27.6,22.3,45.6
+Mumbai,India,Asia,2024,12,18.5,57.9,58.7
+Berlin,Germany,Europe,2020,1,1.2,95.8,79.7
+Berlin,Germany,Europe,2020,2,1.9,65.1,60.8
+Berlin,Germany,Europe,2020,3,7.4,8.7,91.4
+Berlin,Germany,Europe,2020,4,12.7,87.2,87.9
+Berlin,Germany,Europe,2020,5,7.9,85.0,72.6
+Berlin,Germany,Europe,2020,6,16.2,143.6,87.9
+Berlin,Germany,Europe,2020,7,17.3,147.4,68.8
+Berlin,Germany,Europe,2020,8,19.5,45.0,62.1
+Berlin,Germany,Europe,2020,9,10.6,131.7,53.6
+Berlin,Germany,Europe,2020,10,7.6,83.1,63.6
+Berlin,Germany,Europe,2020,11,11.6,107.7,65.7
+Berlin,Germany,Europe,2020,12,3.4,73.7,74.9
+Berlin,Germany,Europe,2021,1,-0.5,60.7,47.3
+Berlin,Germany,Europe,2021,2,1.2,39.4,71.9
+Berlin,Germany,Europe,2021,3,12.8,46.5,56.3
+Berlin,Germany,Europe,2021,4,7.9,108.0,84.5
+Berlin,Germany,Europe,2021,5,11.3,86.9,65.3
+Berlin,Germany,Europe,2021,6,15.9,122.9,56.7
+Berlin,Germany,Europe,2021,7,16.5,97.6,40.9
+Berlin,Germany,Europe,2021,8,19.8,89.5,87.9
+Berlin,Germany,Europe,2021,9,11.8,98.1,68.7
+Berlin,Germany,Europe,2021,10,12.4,111.2,57.3
+Berlin,Germany,Europe,2021,11,8.3,45.5,39.7
+Berlin,Germany,Europe,2021,12,0.2,94.7,51.0
+Berlin,Germany,Europe,2022,1,4.0,28.0,54.8
+Berlin,Germany,Europe,2022,2,3.1,47.7,88.8
+Berlin,Germany,Europe,2022,3,7.6,139.4,87.9
+Berlin,Germany,Europe,2022,4,7.9,108.9,74.6
+Berlin,Germany,Europe,2022,5,12.6,127.1,40.9
+Berlin,Germany,Europe,2022,6,18.1,41.8,64.7
+Berlin,Germany,Europe,2022,7,20.8,117.2,46.7
+Berlin,Germany,Europe,2022,8,15.9,59.9,100
+Berlin,Germany,Europe,2022,9,9.1,33.0,70.9
+Berlin,Germany,Europe,2022,10,11.5,44.3,69.2
+Berlin,Germany,Europe,2022,11,9.0,26.2,64.6
+Berlin,Germany,Europe,2022,12,0.7,104.7,60.2
+Berlin,Germany,Europe,2023,1,-0.2,84.3,87.7
+Berlin,Germany,Europe,2023,2,2.0,91.2,62.4
+Berlin,Germany,Europe,2023,3,11.5,144.5,63.6
+Berlin,Germany,Europe,2023,4,7.9,45.2,88.1
+Berlin,Germany,Europe,2023,5,7.8,54.5,77.0
+Berlin,Germany,Europe,2023,6,15.4,52.2,68.9
+Berlin,Germany,Europe,2023,7,18.3,103.5,68.1
+Berlin,Germany,Europe,2023,8,15.3,100.1,78.6
+Berlin,Germany,Europe,2023,9,8.4,97.8,55.4
+Berlin,Germany,Europe,2023,10,12.8,133.9,100
+Berlin,Germany,Europe,2023,11,9.6,31.5,67.5
+Berlin,Germany,Europe,2023,12,1.3,90.2,67.2
+Berlin,Germany,Europe,2024,1,2.3,34.8,65.4
+Berlin,Germany,Europe,2024,2,3.2,53.8,65.0
+Berlin,Germany,Europe,2024,3,11.0,112.5,70.8
+Berlin,Germany,Europe,2024,4,8.2,40.1,39.5
+Berlin,Germany,Europe,2024,5,11.3,40.9,74.0
+Berlin,Germany,Europe,2024,6,16.1,54.0,83.1
+Berlin,Germany,Europe,2024,7,15.8,140.5,80.8
+Berlin,Germany,Europe,2024,8,15.2,134.3,45.1
+Berlin,Germany,Europe,2024,9,12.6,95.7,100
+Berlin,Germany,Europe,2024,10,8.3,56.6,59.2
+Berlin,Germany,Europe,2024,11,11.8,148.7,81.6
+Berlin,Germany,Europe,2024,12,1.1,2.4,48.7
+Sao Paulo,Brazil,South America,2020,1,11.3,48.4,87.1
+Sao Paulo,Brazil,South America,2020,2,10.9,95.2,60.7
+Sao Paulo,Brazil,South America,2020,3,20.6,35.2,53.9
+Sao Paulo,Brazil,South America,2020,4,21.9,54.6,52.0
+Sao Paulo,Brazil,South America,2020,5,18.4,71.4,77.1
+Sao Paulo,Brazil,South America,2020,6,28.5,46.8,71.4
+Sao Paulo,Brazil,South America,2020,7,30.1,82.8,66.3
+Sao Paulo,Brazil,South America,2020,8,29.5,98.4,38.4
+Sao Paulo,Brazil,South America,2020,9,18.8,85.1,84.5
+Sao Paulo,Brazil,South America,2020,10,20.0,66.5,46.3
+Sao Paulo,Brazil,South America,2020,11,19.1,30.8,60.1
+Sao Paulo,Brazil,South America,2020,12,9.4,23.3,61.6
+Sao Paulo,Brazil,South America,2021,1,14.0,29.8,67.3
+Sao Paulo,Brazil,South America,2021,2,14.7,142.8,64.3
+Sao Paulo,Brazil,South America,2021,3,17.8,34.3,79.9
+Sao Paulo,Brazil,South America,2021,4,20.0,68.6,81.6
+Sao Paulo,Brazil,South America,2021,5,22.9,74.0,72.7
+Sao Paulo,Brazil,South America,2021,6,30.4,89.5,62.7
+Sao Paulo,Brazil,South America,2021,7,30.5,105.2,73.6
+Sao Paulo,Brazil,South America,2021,8,26.1,124.3,55.4
+Sao Paulo,Brazil,South America,2021,9,20.3,138.8,58.1
+Sao Paulo,Brazil,South America,2021,10,18.7,75.4,72.2
+Sao Paulo,Brazil,South America,2021,11,18.9,131.1,56.2
+Sao Paulo,Brazil,South America,2021,12,14.4,77.9,79.8
+Sao Paulo,Brazil,South America,2022,1,11.8,7.9,71.0
+Sao Paulo,Brazil,South America,2022,2,12.0,77.6,65.1
+Sao Paulo,Brazil,South America,2022,3,19.4,0,93.0
+Sao Paulo,Brazil,South America,2022,4,21.6,67.2,65.7
+Sao Paulo,Brazil,South America,2022,5,22.8,24.3,81.6
+Sao Paulo,Brazil,South America,2022,6,26.0,178.2,63.6
+Sao Paulo,Brazil,South America,2022,7,25.7,168.9,59.6
+Sao Paulo,Brazil,South America,2022,8,28.9,136.8,79.2
+Sao Paulo,Brazil,South America,2022,9,22.6,129.9,51.2
+Sao Paulo,Brazil,South America,2022,10,22.2,25.4,61.0
+Sao Paulo,Brazil,South America,2022,11,21.7,71.7,57.0
+Sao Paulo,Brazil,South America,2022,12,10.6,83.6,45.4
+Sao Paulo,Brazil,South America,2023,1,10.2,103.7,65.9
+Sao Paulo,Brazil,South America,2023,2,13.7,0,22.9
+Sao Paulo,Brazil,South America,2023,3,19.6,104.0,86.9
+Sao Paulo,Brazil,South America,2023,4,22.4,0,87.8
+Sao Paulo,Brazil,South America,2023,5,17.2,64.6,78.8
+Sao Paulo,Brazil,South America,2023,6,26.4,112.7,75.4
+Sao Paulo,Brazil,South America,2023,7,30.5,110.0,78.1
+Sao Paulo,Brazil,South America,2023,8,29.9,86.1,95.3
+Sao Paulo,Brazil,South America,2023,9,20.4,136.9,76.8
+Sao Paulo,Brazil,South America,2023,10,18.9,97.2,52.7
+Sao Paulo,Brazil,South America,2023,11,17.6,94.8,63.0
+Sao Paulo,Brazil,South America,2023,12,9.2,47.6,72.1
+Sao Paulo,Brazil,South America,2024,1,12.3,127.2,78.3
+Sao Paulo,Brazil,South America,2024,2,9.1,10.0,56.2
+Sao Paulo,Brazil,South America,2024,3,18.4,30.0,79.8
+Sao Paulo,Brazil,South America,2024,4,20.2,105.7,72.7
+Sao Paulo,Brazil,South America,2024,5,19.0,47.8,76.5
+Sao Paulo,Brazil,South America,2024,6,30.9,47.0,58.2
+Sao Paulo,Brazil,South America,2024,7,27.2,122.0,61.2
+Sao Paulo,Brazil,South America,2024,8,28.7,32.9,65.1
+Sao Paulo,Brazil,South America,2024,9,22.5,120.2,93.4
+Sao Paulo,Brazil,South America,2024,10,18.2,56.5,52.4
+Sao Paulo,Brazil,South America,2024,11,20.0,25.6,66.2
+Sao Paulo,Brazil,South America,2024,12,12.1,32.2,67.1
+Cairo,Egypt,Africa,2020,1,12.3,80.0,49.7
+Cairo,Egypt,Africa,2020,2,12.3,72.8,58.6
+Cairo,Egypt,Africa,2020,3,20.5,26.2,53.8
+Cairo,Egypt,Africa,2020,4,20.3,89.9,47.4
+Cairo,Egypt,Africa,2020,5,24.8,28.7,43.0
+Cairo,Egypt,Africa,2020,6,28.1,117.9,36.3
+Cairo,Egypt,Africa,2020,7,28.2,95.0,63.5
+Cairo,Egypt,Africa,2020,8,31.9,111.6,59.0
+Cairo,Egypt,Africa,2020,9,24.2,115.5,66.2
+Cairo,Egypt,Africa,2020,10,20.3,97.0,73.0
+Cairo,Egypt,Africa,2020,11,24.8,61.0,73.9
+Cairo,Egypt,Africa,2020,12,12.2,116.3,61.9
+Cairo,Egypt,Africa,2021,1,11.9,182.1,86.3
+Cairo,Egypt,Africa,2021,2,14.6,138.3,80.6
+Cairo,Egypt,Africa,2021,3,22.1,13.6,81.7
+Cairo,Egypt,Africa,2021,4,21.3,101.4,39.7
+Cairo,Egypt,Africa,2021,5,24.0,67.8,62.2
+Cairo,Egypt,Africa,2021,6,32.0,158.2,62.3
+Cairo,Egypt,Africa,2021,7,30.4,195.4,87.6
+Cairo,Egypt,Africa,2021,8,29.9,11.3,58.6
+Cairo,Egypt,Africa,2021,9,21.3,60.5,52.2
+Cairo,Egypt,Africa,2021,10,21.8,75.2,81.3
+Cairo,Egypt,Africa,2021,11,24.9,35.4,57.4
+Cairo,Egypt,Africa,2021,12,11.3,81.0,73.9
+Cairo,Egypt,Africa,2022,1,12.1,49.5,86.1
+Cairo,Egypt,Africa,2022,2,11.3,30.5,64.2
+Cairo,Egypt,Africa,2022,3,22.4,154.5,61.2
+Cairo,Egypt,Africa,2022,4,24.5,37.3,53.4
+Cairo,Egypt,Africa,2022,5,23.0,70.7,50.7
+Cairo,Egypt,Africa,2022,6,32.5,75.2,68.4
+Cairo,Egypt,Africa,2022,7,31.6,95.2,65.1
+Cairo,Egypt,Africa,2022,8,27.7,69.1,84.4
+Cairo,Egypt,Africa,2022,9,19.6,158.6,60.1
+Cairo,Egypt,Africa,2022,10,20.2,93.2,42.3
+Cairo,Egypt,Africa,2022,11,24.1,174.2,66.1
+Cairo,Egypt,Africa,2022,12,13.5,44.4,80.1
+Cairo,Egypt,Africa,2023,1,15.1,111.0,48.1
+Cairo,Egypt,Africa,2023,2,13.5,154.7,78.2
+Cairo,Egypt,Africa,2023,3,22.1,49.0,49.9
+Cairo,Egypt,Africa,2023,4,24.7,0,64.7
+Cairo,Egypt,Africa,2023,5,21.9,113.3,35.4
+Cairo,Egypt,Africa,2023,6,30.5,146.6,32.9
+Cairo,Egypt,Africa,2023,7,32.5,141.1,64.3
+Cairo,Egypt,Africa,2023,8,28.6,75.7,65.2
+Cairo,Egypt,Africa,2023,9,20.2,23.6,66.8
+Cairo,Egypt,Africa,2023,10,22.9,121.1,48.1
+Cairo,Egypt,Africa,2023,11,21.1,6.3,83.8
+Cairo,Egypt,Africa,2023,12,12.6,48.0,79.0
+Cairo,Egypt,Africa,2024,1,15.4,46.8,72.7
+Cairo,Egypt,Africa,2024,2,14.5,65.9,81.1
+Cairo,Egypt,Africa,2024,3,19.5,35.9,81.8
+Cairo,Egypt,Africa,2024,4,23.4,63.2,81.0
+Cairo,Egypt,Africa,2024,5,20.5,65.4,68.7
+Cairo,Egypt,Africa,2024,6,30.8,98.6,90.9
+Cairo,Egypt,Africa,2024,7,28.4,45.8,65.6
+Cairo,Egypt,Africa,2024,8,27.0,90.6,42.7
+Cairo,Egypt,Africa,2024,9,23.5,73.4,56.6
+Cairo,Egypt,Africa,2024,10,20.4,44.4,55.5
+Cairo,Egypt,Africa,2024,11,19.2,1.5,75.0
+Cairo,Egypt,Africa,2024,12,12.7,76.9,62.1
+Toronto,Canada,North America,2020,1,1.8,31.7,62.7
+Toronto,Canada,North America,2020,2,-0.8,85.6,82.6
+Toronto,Canada,North America,2020,3,9.5,47.5,60.3
+Toronto,Canada,North America,2020,4,7.6,70.8,85.3
+Toronto,Canada,North America,2020,5,5.8,69.3,60.6
+Toronto,Canada,North America,2020,6,17.5,103.7,61.6
+Toronto,Canada,North America,2020,7,13.3,126.7,100
+Toronto,Canada,North America,2020,8,17.3,101.7,65.4
+Toronto,Canada,North America,2020,9,9.3,114.4,91.8
+Toronto,Canada,North America,2020,10,8.2,88.3,53.9
+Toronto,Canada,North America,2020,11,4.3,68.4,56.7
+Toronto,Canada,North America,2020,12,-1.8,76.0,83.4
+Toronto,Canada,North America,2021,1,-0.2,45.5,69.2
+Toronto,Canada,North America,2021,2,-2.3,44.4,72.5
+Toronto,Canada,North America,2021,3,6.6,19.8,20
+Toronto,Canada,North America,2021,4,9.7,36.5,74.8
+Toronto,Canada,North America,2021,5,4.2,85.6,94.0
+Toronto,Canada,North America,2021,6,12.8,26.0,67.5
+Toronto,Canada,North America,2021,7,15.4,80.8,66.2
+Toronto,Canada,North America,2021,8,15.6,112.8,41.9
+Toronto,Canada,North America,2021,9,8.5,84.5,92.0
+Toronto,Canada,North America,2021,10,4.3,91.3,70.0
+Toronto,Canada,North America,2021,11,6.9,139.4,72.5
+Toronto,Canada,North America,2021,12,-3.3,95.0,55.5
+Toronto,Canada,North America,2022,1,-1.6,100.9,63.3
+Toronto,Canada,North America,2022,2,1.3,14.0,68.2
+Toronto,Canada,North America,2022,3,5.2,79.7,75.4
+Toronto,Canada,North America,2022,4,9.0,41.9,70.2
+Toronto,Canada,North America,2022,5,5.3,35.4,91.9
+Toronto,Canada,North America,2022,6,14.2,87.6,48.7
+Toronto,Canada,North America,2022,7,15.5,105.3,62.4
+Toronto,Canada,North America,2022,8,16.9,62.5,86.0
+Toronto,Canada,North America,2022,9,7.8,104.1,68.5
+Toronto,Canada,North America,2022,10,8.6,110.0,67.8
+Toronto,Canada,North America,2022,11,7.2,36.1,86.8
+Toronto,Canada,North America,2022,12,-3.6,136.6,79.8
+Toronto,Canada,North America,2023,1,0.2,61.4,58.1
+Toronto,Canada,North America,2023,2,-3.0,104.2,93.3
+Toronto,Canada,North America,2023,3,6.4,93.2,70.9
+Toronto,Canada,North America,2023,4,4.7,87.0,80.4
+Toronto,Canada,North America,2023,5,6.2,40.2,50.6
+Toronto,Canada,North America,2023,6,13.8,70.8,44.5
+Toronto,Canada,North America,2023,7,17.8,125.4,58.9
+Toronto,Canada,North America,2023,8,14.5,94.6,65.0
+Toronto,Canada,North America,2023,9,9.5,0,63.7
+Toronto,Canada,North America,2023,10,6.9,81.1,66.8
+Toronto,Canada,North America,2023,11,8.8,22.7,77.1
+Toronto,Canada,North America,2023,12,-3.3,111.5,68.0
+Toronto,Canada,North America,2024,1,-3.8,113.0,68.7
+Toronto,Canada,North America,2024,2,-2.8,14.0,59.9
+Toronto,Canada,North America,2024,3,6.6,64.2,47.2
+Toronto,Canada,North America,2024,4,5.2,100.6,65.8
+Toronto,Canada,North America,2024,5,9.0,53.5,73.4
+Toronto,Canada,North America,2024,6,17.6,84.5,75.8
+Toronto,Canada,North America,2024,7,16.1,155.4,42.3
+Toronto,Canada,North America,2024,8,15.7,52.4,67.3
+Toronto,Canada,North America,2024,9,7.7,130.0,92.9
+Toronto,Canada,North America,2024,10,7.3,82.6,54.8
+Toronto,Canada,North America,2024,11,8.0,0,93.0
+Toronto,Canada,North America,2024,12,-2.5,110.1,59.9
+Singapore,Singapore,Asia,2020,1,20.5,44.4,83.7
+Singapore,Singapore,Asia,2020,2,21.0,190.9,49.7
+Singapore,Singapore,Asia,2020,3,29.3,14.3,58.1
+Singapore,Singapore,Asia,2020,4,29.4,123.2,64.6
+Singapore,Singapore,Asia,2020,5,24.1,176.8,64.0
+Singapore,Singapore,Asia,2020,6,32.2,73.0,54.7
+Singapore,Singapore,Asia,2020,7,32.0,91.6,51.6
+Singapore,Singapore,Asia,2020,8,34.5,90.6,61.5
+Singapore,Singapore,Asia,2020,9,28.5,141.0,88.9
+Singapore,Singapore,Asia,2020,10,27.9,114.0,52.8
+Singapore,Singapore,Asia,2020,11,27.6,41.9,54.8
+Singapore,Singapore,Asia,2020,12,17.3,142.0,58.0
+Singapore,Singapore,Asia,2021,1,17.0,72.0,94.2
+Singapore,Singapore,Asia,2021,2,18.4,69.7,66.2
+Singapore,Singapore,Asia,2021,3,25.5,16.6,72.9
+Singapore,Singapore,Asia,2021,4,24.7,26.3,86.6
+Singapore,Singapore,Asia,2021,5,29.0,90.3,43.6
+Singapore,Singapore,Asia,2021,6,33.3,110.4,71.4
+Singapore,Singapore,Asia,2021,7,37.2,73.9,54.8
+Singapore,Singapore,Asia,2021,8,32.6,135.2,63.0
+Singapore,Singapore,Asia,2021,9,24.1,111.2,69.4
+Singapore,Singapore,Asia,2021,10,29.7,77.2,68.3
+Singapore,Singapore,Asia,2021,11,30.0,126.7,37.3
+Singapore,Singapore,Asia,2021,12,16.8,98.4,58.1
+Singapore,Singapore,Asia,2022,1,21.2,72.0,61.2
+Singapore,Singapore,Asia,2022,2,17.4,155.9,58.4
+Singapore,Singapore,Asia,2022,3,26.1,8.3,60.5
+Singapore,Singapore,Asia,2022,4,25.3,26.9,63.3
+Singapore,Singapore,Asia,2022,5,28.9,2.7,46.7
+Singapore,Singapore,Asia,2022,6,35.5,34.4,61.0
+Singapore,Singapore,Asia,2022,7,33.6,88.2,44.1
+Singapore,Singapore,Asia,2022,8,34.0,81.4,63.8
+Singapore,Singapore,Asia,2022,9,29.1,55.0,61.1
+Singapore,Singapore,Asia,2022,10,29.2,88.3,81.7
+Singapore,Singapore,Asia,2022,11,24.8,141.1,52.8
+Singapore,Singapore,Asia,2022,12,19.5,82.3,60.0
+Singapore,Singapore,Asia,2023,1,18.1,96.2,54.6
+Singapore,Singapore,Asia,2023,2,18.8,27.2,74.0
+Singapore,Singapore,Asia,2023,3,27.2,64.1,51.6
+Singapore,Singapore,Asia,2023,4,26.0,82.8,66.3
+Singapore,Singapore,Asia,2023,5,27.1,12.5,54.0
+Singapore,Singapore,Asia,2023,6,37.1,43.9,45.1
+Singapore,Singapore,Asia,2023,7,33.6,60.4,64.8
+Singapore,Singapore,Asia,2023,8,36.1,60.6,88.8
+Singapore,Singapore,Asia,2023,9,28.6,67.6,64.0
+Singapore,Singapore,Asia,2023,10,28.4,127.9,45.8
+Singapore,Singapore,Asia,2023,11,28.4,48.4,64.5
+Singapore,Singapore,Asia,2023,12,17.5,42.3,71.8
+Singapore,Singapore,Asia,2024,1,17.4,48.6,79.1
+Singapore,Singapore,Asia,2024,2,21.1,38.8,57.0
+Singapore,Singapore,Asia,2024,3,28.7,12.3,49.0
+Singapore,Singapore,Asia,2024,4,29.6,45.7,74.9
+Singapore,Singapore,Asia,2024,5,27.1,100.1,51.2
+Singapore,Singapore,Asia,2024,6,36.3,77.6,51.0
+Singapore,Singapore,Asia,2024,7,36.7,78.9,89.4
+Singapore,Singapore,Asia,2024,8,34.7,53.4,65.4
+Singapore,Singapore,Asia,2024,9,26.2,127.0,54.7
+Singapore,Singapore,Asia,2024,10,29.3,90.7,72.1
+Singapore,Singapore,Asia,2024,11,26.7,108.9,45.3
+Singapore,Singapore,Asia,2024,12,20.9,70.6,85.2

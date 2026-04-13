@@ -1,0 +1,70 @@
+site_name: DataLens AI
+site_description: AI-powered data analytics — upload data, ask questions in plain English, get insights
+site_author: Mekala Ajay
+repo_url: https://github.com/mekalaajayk/datalens-ai
+repo_name: mekalaajayk/datalens-ai
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - content.tabs.link
+    - search.highlight
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+  - tables
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mekalaajayk/datalens-ai
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - User Guide:
+      - Uploading Data: user-guide/uploading-data.md
+      - Asking Questions: user-guide/asking-questions.md
+      - Visualizations: user-guide/visualizations.md
+      - Data Stories: user-guide/data-stories.md
+  - CLI Reference: cli-reference.md
+  - API Reference: api-reference.md
+  - Contributing: contributing.md
+  - Changelog: changelog.md

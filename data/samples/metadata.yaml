@@ -1,0 +1,63 @@
+datasets:
+  ecommerce:
+    display_name: "E-Commerce Orders"
+    description: "3,000 online orders with products, categories, regions, and revenue"
+    files:
+      - ecommerce_orders.csv
+    row_count: 3000
+    icon: "\U0001F6D2"
+    suggested_questions:
+      - "What are the top 5 products by total revenue?"
+      - "What is the total revenue by category?"
+      - "How has revenue changed over time?"
+      - "Which region has the most orders?"
+      - "What is the average order value by category?"
+      - "What is the distribution of order amounts?"
+      - "How many orders were cancelled?"
+      - "What are the top 10 customers by spending?"
+
+  climate:
+    display_name: "World Climate Data"
+    description: "Monthly temperature, rainfall, and humidity for 10 global cities (2020-2024)"
+    files:
+      - world_climate.csv
+    row_count: 600
+    icon: "\U0001F321"
+    suggested_questions:
+      - "What is the average temperature by city?"
+      - "Which city has the highest rainfall?"
+      - "How has temperature changed over the years?"
+      - "What is the average humidity by continent?"
+      - "Which month is the hottest on average?"
+      - "Compare temperatures between Tokyo and New York"
+
+  stocks:
+    display_name: "Stock Market Prices"
+    description: "Daily OHLCV data for 10 major stocks in 2024"
+    files:
+      - stock_prices.csv
+    row_count: 1800
+    icon: "\U0001F4C8"
+    suggested_questions:
+      - "What is the average closing price by ticker?"
+      - "Which stock has the highest volume?"
+      - "How has NVDA stock price changed over time?"
+      - "What is the total volume by sector?"
+      - "Compare closing prices of AAPL and MSFT"
+      - "What is the distribution of daily returns?"
+
+  hr:
+    display_name: "HR Employee Analytics"
+    description: "1,000 employees with salary, performance, satisfaction, and demographics"
+    files:
+      - hr_employees.csv
+    row_count: 1000
+    icon: "\U0001F465"
+    suggested_questions:
+      - "What is the average salary by department?"
+      - "Which department has the highest performance scores?"
+      - "What is the distribution of salaries?"
+      - "How does education level affect salary?"
+      - "What is the average satisfaction score by department?"
+      - "How many employees are there by gender?"
+      - "What are the top 5 job titles by average salary?"

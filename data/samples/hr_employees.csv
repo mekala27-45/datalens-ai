@@ -1,0 +1,1001 @@
+employee_id,department,job_title,hire_date,salary,bonus,performance_score,satisfaction_score,age,gender,education
+EMP-0001,Engineering,DevOps Engineer,2023-07-09,130167,14895.0,2.5,3.5,34,Non-binary,Bachelor's
+EMP-0002,Finance,Accountant,2018-12-24,129874,8776.0,4.7,3.7,48,Non-binary,Bachelor's
+EMP-0003,Operations,COO Staff,2021-01-27,66910,1566.0,1.4,4.6,23,Male,High School
+EMP-0004,Finance,FP&A Manager,2020-05-07,106096,5652.0,1.4,2.1,45,Female,Bachelor's
+EMP-0005,Engineering,DevOps Engineer,2022-09-12,159828,9025.0,1.0,1.4,43,Male,Master's
+EMP-0006,Marketing,SEO Specialist,2017-01-29,60033,3532.0,2.5,2.8,41,Female,Bachelor's
+EMP-0007,Operations,COO Staff,2023-02-18,108935,2276.0,3.6,2.9,41,Male,Master's
+EMP-0008,Sales,Sales Rep,2021-11-21,119294,376.0,4.0,3.9,37,Male,High School
+EMP-0009,Sales,BDR,2022-11-19,77578,5646.0,1.1,2.7,28,Female,PhD
+EMP-0010,Sales,Account Executive,2018-08-11,96015,2936.0,4.5,2.2,56,Non-binary,High School
+EMP-0011,HR,HR Generalist,2021-06-28,134100,4071.0,4.7,4.2,46,Male,Bachelor's
+EMP-0012,Engineering,DevOps Engineer,2019-06-19,105768,1932.0,3.4,1.9,51,Male,Bachelor's
+EMP-0013,Engineering,Tech Lead,2022-05-14,107544,13548.0,3.6,3.7,50,Non-binary,Bachelor's
+EMP-0014,Marketing,Marketing Analyst,2019-08-17,152105,10111.0,3.3,3.5,25,Non-binary,Bachelor's
+EMP-0015,Finance,FP&A Manager,2021-10-14,80119,10369.0,3.0,1.1,53,Non-binary,Bachelor's
+EMP-0016,Operations,COO Staff,2020-09-13,137951,18754.0,1.6,4.1,51,Female,Master's
+EMP-0017,Finance,FP&A Manager,2016-12-25,165920,11125.0,2.0,3.0,36,Male,Master's
+EMP-0018,Engineering,DevOps Engineer,2020-06-22,100088,12226.0,3.4,2.4,29,Male,Master's
+EMP-0019,Marketing,Brand Manager,2015-09-26,99558,12474.0,2.5,4.1,55,Male,Bachelor's
+EMP-0020,Finance,Accountant,2023-06-09,126325,15770.0,2.2,3.4,29,Non-binary,Bachelor's
+EMP-0021,Engineering,DevOps Engineer,2018-02-14,125898,12655.0,1.7,4.2,35,Non-binary,Bachelor's
+EMP-0022,Finance,FP&A Manager,2021-01-15,144674,1862.0,1.9,4.5,61,Male,Bachelor's
+EMP-0023,Finance,Financial Analyst,2024-01-04,113939,400.0,2.1,2.8,25,Female,Bachelor's
+EMP-0024,Sales,Sales Manager,2023-08-20,115333,6005.0,4.2,1.3,28,Non-binary,Master's
+EMP-0025,Finance,Controller,2021-05-01,104441,13890.0,5.0,3.8,26,Non-binary,PhD
+EMP-0026,Marketing,Brand Manager,2015-03-28,137311,12845.0,4.4,2.7,25,Non-binary,Bachelor's
+EMP-0027,Finance,Financial Analyst,2019-10-23,102003,13717.0,2.7,3.9,28,Male,Bachelor's
+EMP-0028,HR,Recruiter,2015-01-09,119988,7365.0,4.5,1.2,23,Female,Master's
+EMP-0029,Operations,Logistics Coord,2022-08-10,113872,199.0,3.5,2.9,59,Non-binary,Bachelor's
+EMP-0030,HR,Recruiter,2017-08-02,74340,655.0,1.3,1.3,55,Female,High School
+EMP-0031,Sales,BDR,2021-11-06,78276,3566.0,4.7,2.7,28,Non-binary,Bachelor's
+EMP-0032,Sales,Account Executive,2021-09-19,74896,6433.0,1.3,1.5,47,Male,Bachelor's
+EMP-0033,Finance,Accountant,2022-10-27,101191,11533.0,1.2,2.3,41,Non-binary,Bachelor's
+EMP-0034,Finance,Accountant,2023-04-25,113498,6312.0,1.8,2.1,56,Male,High School
+EMP-0035,Finance,Financial Analyst,2022-04-08,87749,11289.0,2.9,3.4,28,Non-binary,PhD
+EMP-0036,Engineering,Senior Engineer,2019-02-18,177343,21440.0,2.0,4.6,35,Female,Bachelor's
+EMP-0037,Finance,Accountant,2016-04-25,154449,10723.0,4.6,4.3,31,Non-binary,PhD
+EMP-0038,Marketing,Content Manager,2022-11-01,91916,1996.0,4.0,3.3,52,Non-binary,Master's
+EMP-0039,Sales,BDR,2020-07-03,76507,2264.0,1.9,1.1,48,Non-binary,Bachelor's
+EMP-0040,Operations,Logistics Coord,2015-07-01,126644,18978.0,2.2,3.1,61,Female,High School
+EMP-0041,Operations,Project Manager,2019-02-05,122965,13551.0,3.1,4.0,58,Male,Master's
+EMP-0042,Operations,COO Staff,2022-01-24,65152,6253.0,4.5,4.8,35,Female,High School
+EMP-0043,Engineering,Tech Lead,2022-08-02,135612,2764.0,1.6,1.8,27,Female,PhD
+EMP-0044,Sales,Sales Rep,2017-03-21,71817,9158.0,3.5,2.8,23,Male,Master's
+EMP-0045,Engineering,Tech Lead,2023-06-29,151386,8623.0,3.8,3.0,48,Male,Master's
+EMP-0046,Engineering,Senior Engineer,2021-01-09,166100,11773.0,3.1,4.4,43,Male,Bachelor's
+EMP-0047,Finance,Financial Analyst,2022-05-05,99341,11665.0,1.9,3.6,61,Female,Master's
+EMP-0048,Sales,BDR,2023-11-19,101737,11593.0,2.1,2.2,29,Male,Master's
+EMP-0049,HR,Recruiter,2021-01-27,68529,9917.0,3.6,4.1,48,Female,Master's
+EMP-0050,Marketing,Brand Manager,2015-08-21,85541,5743.0,3.2,4.5,46,Male,PhD
+EMP-0051,HR,Recruiter,2018-10-24,148205,1650.0,4.8,3.6,55,Male,Bachelor's
+EMP-0052,Marketing,Content Manager,2021-07-12,71896,5568.0,3.9,1.1,33,Female,Bachelor's
+EMP-0053,Operations,COO Staff,2019-09-23,74745,7298.0,3.5,2.4,60,Female,Master's
+EMP-0054,Operations,COO Staff,2022-09-13,77602,6766.0,3.5,1.3,35,Female,Bachelor's
+EMP-0055,Finance,Financial Analyst,2019-04-21,156825,17937.0,3.1,1.4,22,Female,High School
+EMP-0056,Finance,Accountant,2015-04-16,112413,4123.0,4.9,3.0,54,Non-binary,Bachelor's
+EMP-0057,Finance,Controller,2023-12-30,101774,12711.0,1.5,1.5,34,Male,Bachelor's
+EMP-0058,Operations,COO Staff,2021-04-08,122550,14363.0,1.9,4.8,59,Male,Master's
+EMP-0059,Finance,Financial Analyst,2018-05-01,113378,11878.0,1.2,3.4,52,Non-binary,PhD
+EMP-0060,Sales,BDR,2016-12-24,142478,2506.0,1.5,4.0,24,Male,Master's
+EMP-0061,Operations,COO Staff,2021-09-16,96603,1326.0,4.8,4.6,28,Male,Bachelor's
+EMP-0062,HR,HR Manager,2018-06-20,161269,9377.0,1.9,1.5,35,Male,Bachelor's
+EMP-0063,HR,HR Generalist,2016-12-28,94072,9923.0,4.5,3.0,42,Non-binary,Bachelor's
+EMP-0064,Engineering,Software Engineer,2015-04-10,146564,9113.0,1.1,2.0,46,Female,Bachelor's
+EMP-0065,HR,Recruiter,2021-05-09,101520,1567.0,3.3,1.9,24,Male,PhD
+EMP-0066,Engineering,DevOps Engineer,2023-07-01,180188,8753.0,1.9,4.5,32,Male,Bachelor's
+EMP-0067,Operations,Operations Analyst,2015-05-12,80467,2132.0,4.4,3.6,57,Male,Master's
+EMP-0068,Sales,Sales Rep,2021-11-28,73989,4301.0,4.5,1.9,47,Male,PhD
+EMP-0069,HR,Recruiter,2022-02-04,95805,10677.0,2.5,3.8,58,Non-binary,High School
+EMP-0070,Operations,Project Manager,2017-04-27,100192,5447.0,1.4,2.6,33,Female,Bachelor's
+EMP-0071,Engineering,Software Engineer,2019-03-28,133156,18742.0,2.9,1.1,45,Non-binary,High School
+EMP-0072,Operations,Logistics Coord,2022-05-17,75793,1428.0,3.4,2.8,25,Non-binary,Master's
+EMP-0073,Marketing,SEO Specialist,2016-01-18,70138,6709.0,1.8,3.3,48,Female,Bachelor's
+EMP-0074,Marketing,Marketing Analyst,2022-05-31,92386,13585.0,4.8,2.4,39,Male,Bachelor's
+EMP-0075,Engineering,Tech Lead,2015-04-24,118646,14156.0,2.2,2.6,46,Female,Bachelor's
+EMP-0076,Engineering,Tech Lead,2022-04-09,146553,2666.0,2.6,1.0,23,Male,Bachelor's
+EMP-0077,Operations,Logistics Coord,2019-05-11,114529,14780.0,2.2,1.6,28,Non-binary,Bachelor's
+EMP-0078,Operations,Operations Analyst,2015-01-09,77039,1097.0,4.9,1.4,55,Non-binary,PhD
+EMP-0079,Engineering,DevOps Engineer,2020-06-16,88673,10184.0,1.1,4.9,29,Non-binary,Bachelor's
+EMP-0080,Marketing,Brand Manager,2023-12-31,126742,397.0,2.6,4.5,32,Non-binary,Bachelor's
+EMP-0081,Operations,Logistics Coord,2018-11-17,100976,6437.0,4.5,4.5,57,Non-binary,Bachelor's
+EMP-0082,Marketing,Marketing Analyst,2021-03-26,76480,11232.0,1.3,1.1,36,Female,Master's
+EMP-0083,Sales,Account Executive,2023-06-08,103322,4577.0,2.0,4.1,52,Male,Master's
+EMP-0084,Finance,FP&A Manager,2015-09-21,107559,13934.0,2.5,2.5,22,Non-binary,PhD
+EMP-0085,Engineering,Senior Engineer,2019-10-14,176165,18997.0,2.4,2.9,42,Female,PhD
+EMP-0086,Sales,Account Executive,2021-08-27,126992,4842.0,2.7,1.4,61,Male,Bachelor's
+EMP-0087,Marketing,SEO Specialist,2016-04-21,99409,3938.0,2.7,2.2,24,Male,Master's
+EMP-0088,HR,HR Generalist,2020-07-08,103621,921.0,2.7,1.7,45,Male,Bachelor's
+EMP-0089,Marketing,Marketing Analyst,2020-01-18,81309,5138.0,5.0,3.2,58,Female,Bachelor's
+EMP-0090,Engineering,DevOps Engineer,2016-01-30,120013,6991.0,4.9,2.8,24,Female,Master's
+EMP-0091,Sales,Account Executive,2017-02-08,111506,10262.0,1.8,4.4,47,Non-binary,Master's
+EMP-0092,Engineering,Software Engineer,2019-09-30,149560,14621.0,4.9,2.7,28,Male,Master's
+EMP-0093,HR,HR Manager,2020-05-18,106039,5981.0,2.9,4.3,46,Male,Bachelor's
+EMP-0094,Engineering,Tech Lead,2022-04-11,112154,14584.0,4.5,2.2,58,Non-binary,Bachelor's
+EMP-0095,Sales,BDR,2016-11-29,73971,5710.0,1.5,1.6,44,Non-binary,Bachelor's
+EMP-0096,Engineering,Tech Lead,2018-08-13,119172,12218.0,1.6,2.0,56,Female,Bachelor's
+EMP-0097,Finance,Financial Analyst,2023-11-17,130941,16781.0,1.1,2.4,55,Male,Master's
+EMP-0098,Engineering,Tech Lead,2020-06-25,111556,3670.0,1.1,3.7,36,Male,Bachelor's
+EMP-0099,Finance,Controller,2022-02-23,84115,5990.0,4.2,3.4,26,Non-binary,Master's
+EMP-0100,Engineering,Software Engineer,2016-02-20,121563,10551.0,1.1,2.4,53,Female,PhD
+EMP-0101,Sales,Sales Manager,2021-08-18,86103,12188.0,5.0,4.6,37,Non-binary,Bachelor's
+EMP-0102,HR,People Ops,2017-10-03,90572,1582.0,3.8,3.5,45,Female,Bachelor's
+EMP-0103,Finance,Controller,2021-04-25,149286,8445.0,3.9,1.9,52,Male,Bachelor's
+EMP-0104,Sales,Account Executive,2022-08-02,93872,12134.0,3.5,3.3,24,Female,Bachelor's
+EMP-0105,Sales,Sales Rep,2018-06-16,80709,2315.0,4.6,2.6,36,Male,PhD
+EMP-0106,Finance,FP&A Manager,2015-12-18,146098,14046.0,4.0,1.1,44,Non-binary,Master's
+EMP-0107,Finance,Financial Analyst,2022-08-20,105697,4249.0,4.5,2.7,37,Female,Bachelor's
+EMP-0108,Operations,Project Manager,2015-07-05,119795,1211.0,4.9,3.1,38,Male,Bachelor's
+EMP-0109,Marketing,SEO Specialist,2024-01-10,137874,9047.0,3.2,2.7,26,Male,Master's
+EMP-0110,Sales,BDR,2019-12-29,88200,2712.0,2.8,2.9,36,Non-binary,Bachelor's
+EMP-0111,Engineering,Tech Lead,2018-06-04,132972,9017.0,4.7,1.8,28,Female,Bachelor's
+EMP-0112,Sales,Account Executive,2020-04-23,106358,10164.0,1.1,3.2,55,Non-binary,Bachelor's
+EMP-0113,Finance,Accountant,2021-02-18,82281,8243.0,2.9,3.9,28,Female,Bachelor's
+EMP-0114,HR,HR Generalist,2022-08-08,123235,14644.0,2.1,1.3,61,Male,Master's
+EMP-0115,Operations,Project Manager,2023-01-10,101653,2815.0,3.1,1.7,26,Female,Bachelor's
+EMP-0116,Operations,COO Staff,2017-06-10,79223,9080.0,2.7,1.8,38,Non-binary,Bachelor's
+EMP-0117,Engineering,Software Engineer,2023-07-23,112474,2559.0,4.0,3.1,22,Female,Bachelor's
+EMP-0118,Operations,Project Manager,2023-10-30,77191,8550.0,2.1,1.4,27,Female,Bachelor's
+EMP-0119,HR,HR Manager,2017-03-20,120265,10118.0,4.9,3.2,28,Male,Master's
+EMP-0120,Operations,COO Staff,2022-02-16,116047,8484.0,3.8,3.2,57,Male,Bachelor's
+EMP-0121,Marketing,Content Manager,2020-12-31,129519,4839.0,4.7,1.4,47,Female,High School
+EMP-0122,Engineering,Senior Engineer,2015-10-25,123621,16946.0,2.9,3.1,47,Male,Bachelor's
+EMP-0123,HR,HR Manager,2016-10-16,109571,6798.0,3.8,2.0,54,Male,High School
+EMP-0124,Operations,Operations Analyst,2019-09-06,93735,6760.0,1.3,3.1,37,Female,Master's
+EMP-0125,Marketing,SEO Specialist,2023-06-27,153776,22964.0,4.1,4.6,33,Female,Master's
+EMP-0126,Finance,Financial Analyst,2018-11-27,118692,4450.0,2.3,4.3,48,Non-binary,Bachelor's
+EMP-0127,Marketing,Content Manager,2016-11-16,85249,8086.0,4.3,2.7,27,Female,Bachelor's
+EMP-0128,Operations,Project Manager,2020-08-03,88224,7312.0,1.3,3.3,46,Female,High School
+EMP-0129,Engineering,Tech Lead,2015-01-04,108626,4160.0,2.8,5.0,32,Male,PhD
+EMP-0130,Marketing,Brand Manager,2020-01-03,90641,4182.0,2.3,1.7,50,Non-binary,Master's
+EMP-0131,Finance,FP&A Manager,2024-01-03,85181,10236.0,4.2,2.8,48,Male,Master's
+EMP-0132,Marketing,SEO Specialist,2019-07-28,113290,9471.0,4.4,1.2,45,Female,Bachelor's
+EMP-0133,Operations,COO Staff,2022-03-24,144671,4759.0,4.6,2.6,37,Non-binary,Bachelor's
+EMP-0134,Operations,Logistics Coord,2018-01-20,107169,5683.0,2.4,2.8,53,Non-binary,Bachelor's
+EMP-0135,Marketing,SEO Specialist,2019-08-23,108338,1198.0,4.9,4.7,54,Non-binary,Bachelor's
+EMP-0136,Sales,Sales Manager,2017-02-17,133817,15227.0,4.5,2.5,40,Male,Bachelor's
+EMP-0137,Sales,Sales Rep,2020-07-26,84972,8163.0,1.6,4.9,55,Male,Master's
+EMP-0138,Finance,Financial Analyst,2017-08-17,99438,6535.0,2.6,4.1,59,Female,High School
+EMP-0139,Finance,Financial Analyst,2017-11-12,111968,1512.0,1.6,3.4,57,Male,Bachelor's
+EMP-0140,HR,HR Manager,2020-11-16,80417,4984.0,4.4,3.5,59,Female,PhD
+EMP-0141,Engineering,DevOps Engineer,2022-08-10,137322,1649.0,1.5,2.2,32,Non-binary,Bachelor's
+EMP-0142,Sales,Sales Manager,2015-09-28,73752,9817.0,2.6,2.8,45,Female,Bachelor's
+EMP-0143,Finance,FP&A Manager,2021-03-24,102458,1095.0,1.0,4.6,53,Non-binary,Master's
+EMP-0144,Engineering,Tech Lead,2018-07-12,122959,8832.0,3.1,3.5,40,Male,High School
+EMP-0145,HR,HR Generalist,2016-04-21,67436,4127.0,4.9,3.7,26,Non-binary,Bachelor's
+EMP-0146,Engineering,DevOps Engineer,2024-01-09,129627,13473.0,2.2,3.8,46,Non-binary,Bachelor's
+EMP-0147,Finance,Financial Analyst,2017-05-22,117148,4044.0,3.8,4.5,46,Non-binary,PhD
+EMP-0148,Sales,BDR,2019-05-30,98433,11595.0,2.5,1.8,33,Female,High School
+EMP-0149,Marketing,Content Manager,2022-01-23,132965,6189.0,3.8,4.8,59,Female,Bachelor's
+EMP-0150,Engineering,Software Engineer,2020-10-20,158037,13180.0,2.2,2.2,23,Male,Bachelor's
+EMP-0151,Marketing,SEO Specialist,2018-09-28,129674,2048.0,4.2,2.6,58,Male,Master's
+EMP-0152,Finance,Financial Analyst,2017-05-03,103135,13601.0,3.4,3.8,40,Male,PhD
+EMP-0153,Engineering,Senior Engineer,2022-12-30,99616,4834.0,4.3,3.4,60,Male,PhD
+EMP-0154,HR,Recruiter,2023-10-07,104113,13305.0,4.0,2.9,37,Male,Bachelor's
+EMP-0155,Marketing,Brand Manager,2017-03-22,119383,7916.0,1.3,3.7,28,Male,Bachelor's
+EMP-0156,Marketing,Brand Manager,2019-04-05,133810,20007.0,3.4,4.2,34,Non-binary,Bachelor's
+EMP-0157,Marketing,SEO Specialist,2017-06-12,143502,10072.0,3.4,2.9,43,Female,Bachelor's
+EMP-0158,Engineering,Senior Engineer,2018-10-02,95018,3762.0,1.1,1.7,61,Non-binary,Bachelor's
+EMP-0159,Sales,Account Executive,2019-03-25,130318,16429.0,2.8,3.3,29,Male,Master's
+EMP-0160,HR,People Ops,2019-10-13,105957,13369.0,3.4,3.3,60,Male,Bachelor's
+EMP-0161,HR,People Ops,2018-05-01,87770,1609.0,3.8,2.3,24,Non-binary,Master's
+EMP-0162,Finance,Controller,2023-11-10,121326,5296.0,2.9,1.7,25,Female,Bachelor's
+EMP-0163,Sales,Sales Manager,2020-05-21,109683,9225.0,1.3,3.4,38,Female,Master's
+EMP-0164,Marketing,Brand Manager,2018-07-24,92746,13636.0,4.5,2.0,29,Female,Bachelor's
+EMP-0165,Engineering,Senior Engineer,2021-04-08,149820,21139.0,1.1,2.3,55,Non-binary,Master's
+EMP-0166,Engineering,Software Engineer,2020-12-31,176599,13107.0,2.8,4.6,52,Female,High School
+EMP-0167,Marketing,Content Manager,2018-08-13,152529,9007.0,4.8,4.4,52,Non-binary,Master's
+EMP-0168,Operations,COO Staff,2023-09-21,92334,6681.0,3.1,1.7,48,Non-binary,Bachelor's
+EMP-0169,Finance,FP&A Manager,2023-12-03,84922,2885.0,3.2,1.8,56,Male,Bachelor's
+EMP-0170,Marketing,Content Manager,2022-09-06,102833,12637.0,3.1,2.2,61,Female,Bachelor's
+EMP-0171,Sales,Sales Manager,2015-05-05,141683,16529.0,1.9,2.2,37,Female,PhD
+EMP-0172,Operations,Logistics Coord,2016-03-22,86121,8432.0,2.5,1.2,56,Non-binary,High School
+EMP-0173,Engineering,Senior Engineer,2017-11-09,165528,22790.0,1.7,1.0,23,Non-binary,Bachelor's
+EMP-0174,Engineering,Tech Lead,2015-04-17,120575,5224.0,2.4,3.1,61,Female,Bachelor's
+EMP-0175,Engineering,Software Engineer,2017-02-09,143326,1924.0,4.6,1.5,41,Male,PhD
+EMP-0176,Engineering,Tech Lead,2020-10-06,173076,17901.0,3.8,1.6,49,Non-binary,Bachelor's
+EMP-0177,Engineering,Senior Engineer,2023-05-01,161283,20564.0,4.2,1.9,43,Female,PhD
+EMP-0178,Finance,Controller,2021-03-08,81393,3269.0,4.2,2.8,46,Male,Bachelor's
+EMP-0179,Operations,Project Manager,2015-08-06,160631,17622.0,2.1,1.1,26,Non-binary,Bachelor's
+EMP-0180,Operations,COO Staff,2022-02-28,99076,6063.0,4.3,1.8,62,Female,Bachelor's
+EMP-0181,Sales,Sales Manager,2022-05-23,88557,10630.0,1.9,4.0,39,Non-binary,PhD
+EMP-0182,HR,Recruiter,2022-07-27,104777,814.0,4.5,4.8,54,Non-binary,Bachelor's
+EMP-0183,Finance,Financial Analyst,2018-09-29,119933,17668.0,2.4,4.3,38,Male,Bachelor's
+EMP-0184,Operations,COO Staff,2023-05-22,90583,8785.0,3.0,5.0,27,Male,Master's
+EMP-0185,Finance,Controller,2017-09-29,119487,13245.0,2.0,1.2,39,Non-binary,High School
+EMP-0186,Operations,Logistics Coord,2016-07-21,77553,7793.0,1.2,2.4,42,Female,Bachelor's
+EMP-0187,Sales,Sales Rep,2021-12-01,77128,267.0,3.5,2.7,28,Non-binary,PhD
+EMP-0188,Operations,Logistics Coord,2022-03-03,136640,9011.0,2.3,4.2,36,Male,Bachelor's
+EMP-0189,Sales,BDR,2023-10-11,100924,3789.0,4.6,4.0,57,Male,Master's
+EMP-0190,Sales,Sales Rep,2023-09-29,64796,8855.0,4.0,1.4,44,Male,PhD
+EMP-0191,Finance,FP&A Manager,2022-09-04,95642,2711.0,1.1,1.2,39,Non-binary,Master's
+EMP-0192,Operations,Project Manager,2019-05-10,87962,1876.0,4.6,3.7,45,Non-binary,Bachelor's
+EMP-0193,Operations,COO Staff,2021-10-22,86152,6433.0,2.5,2.4,50,Non-binary,Master's
+EMP-0194,Marketing,Content Manager,2017-04-30,152642,1640.0,3.3,2.4,56,Non-binary,Bachelor's
+EMP-0195,HR,People Ops,2015-03-03,116585,11872.0,3.3,2.9,54,Male,Master's
+EMP-0196,Finance,Accountant,2021-04-16,72332,6537.0,2.7,2.4,59,Non-binary,Bachelor's
+EMP-0197,HR,HR Generalist,2019-09-15,110947,2619.0,2.3,4.0,62,Female,High School
+EMP-0198,Marketing,Content Manager,2022-03-01,111205,8467.0,2.4,2.8,43,Male,Master's
+EMP-0199,Finance,Financial Analyst,2018-10-30,94477,12557.0,3.7,1.5,38,Female,Master's
+EMP-0200,Finance,Financial Analyst,2021-07-07,121298,380.0,2.6,2.0,56,Female,Bachelor's
+EMP-0201,HR,Recruiter,2016-09-02,107410,4799.0,4.2,4.3,39,Male,Master's
+EMP-0202,Marketing,Marketing Analyst,2021-01-26,134302,13149.0,4.0,1.0,26,Male,High School
+EMP-0203,Marketing,Brand Manager,2023-03-30,103399,6123.0,4.2,2.0,30,Female,High School
+EMP-0204,Operations,COO Staff,2018-01-29,135028,9791.0,5.0,3.0,58,Male,Bachelor's
+EMP-0205,HR,HR Manager,2022-11-11,104942,11133.0,3.2,1.4,34,Male,Master's
+EMP-0206,Engineering,DevOps Engineer,2017-06-25,111405,2982.0,2.3,5.0,24,Male,Master's
+EMP-0207,HR,HR Manager,2022-12-23,74509,7776.0,1.8,1.2,46,Male,Master's
+EMP-0208,Marketing,Content Manager,2016-07-28,86967,2769.0,4.4,2.2,38,Female,Bachelor's
+EMP-0209,Engineering,DevOps Engineer,2019-10-28,90619,6174.0,3.6,3.0,51,Non-binary,Bachelor's
+EMP-0210,Finance,Accountant,2021-02-03,80099,1416.0,1.2,1.6,60,Male,Bachelor's
+EMP-0211,Sales,BDR,2023-02-23,136000,2137.0,1.4,1.2,44,Female,Bachelor's
+EMP-0212,Operations,COO Staff,2020-02-05,114226,12959.0,2.8,1.1,36,Non-binary,Bachelor's
+EMP-0213,Operations,COO Staff,2023-06-01,125232,13674.0,2.1,3.0,60,Male,Master's
+EMP-0214,Engineering,Senior Engineer,2021-01-20,156757,16841.0,2.6,1.6,24,Non-binary,High School
+EMP-0215,Sales,Account Executive,2015-04-12,80445,3182.0,4.3,1.7,51,Male,High School
+EMP-0216,Marketing,Brand Manager,2017-12-08,119094,7979.0,1.8,3.8,61,Female,Master's
+EMP-0217,Operations,Operations Analyst,2016-07-25,114553,5868.0,1.4,4.4,31,Non-binary,Bachelor's
+EMP-0218,Marketing,SEO Specialist,2020-04-28,105676,12705.0,1.7,2.6,36,Non-binary,Bachelor's
+EMP-0219,Engineering,Software Engineer,2021-01-01,119554,15943.0,3.1,2.7,27,Male,Bachelor's
+EMP-0220,Sales,Sales Rep,2015-09-04,91814,5479.0,2.3,4.3,51,Female,Bachelor's
+EMP-0221,Engineering,Senior Engineer,2020-10-16,132392,2099.0,3.3,4.6,51,Female,PhD
+EMP-0222,Marketing,SEO Specialist,2016-09-15,80334,11232.0,2.9,4.3,50,Male,High School
+EMP-0223,HR,HR Generalist,2020-11-24,118692,11480.0,2.1,5.0,41,Male,Bachelor's
+EMP-0224,Marketing,SEO Specialist,2021-02-27,136202,11630.0,1.8,2.9,33,Female,Bachelor's
+EMP-0225,HR,People Ops,2021-05-22,124561,11959.0,3.0,2.9,36,Non-binary,Master's
+EMP-0226,Sales,Sales Rep,2015-05-20,122432,4124.0,1.6,3.7,37,Non-binary,Bachelor's
+EMP-0227,Engineering,Software Engineer,2021-11-24,123716,6550.0,3.6,1.2,50,Non-binary,Master's
+EMP-0228,Sales,Sales Rep,2023-03-03,152913,15309.0,3.9,1.6,25,Non-binary,Bachelor's
+EMP-0229,HR,Recruiter,2019-09-11,123756,1398.0,1.4,3.6,60,Non-binary,Bachelor's
+EMP-0230,Operations,Project Manager,2016-01-11,98018,5786.0,4.7,5.0,59,Non-binary,PhD
+EMP-0231,Engineering,DevOps Engineer,2015-12-23,122884,5915.0,3.8,2.6,25,Non-binary,Master's
+EMP-0232,Marketing,Marketing Analyst,2018-12-10,137338,19399.0,3.6,1.9,34,Female,Master's
+EMP-0233,Marketing,Brand Manager,2020-11-30,97476,895.0,5.0,3.1,50,Non-binary,Master's
+EMP-0234,Marketing,SEO Specialist,2022-11-12,108554,4243.0,3.8,2.9,31,Male,Master's
+EMP-0235,HR,HR Manager,2018-03-17,82927,6217.0,1.5,3.6,30,Female,Bachelor's
+EMP-0236,Operations,Logistics Coord,2021-10-10,124440,13425.0,3.6,3.3,43,Male,Bachelor's
+EMP-0237,Marketing,Marketing Analyst,2017-12-20,127143,10036.0,1.6,1.6,52,Male,Bachelor's
+EMP-0238,Marketing,SEO Specialist,2022-07-08,102568,11824.0,4.4,4.6,47,Female,Bachelor's
+EMP-0239,Engineering,Tech Lead,2023-04-29,113147,4282.0,4.7,2.9,43,Non-binary,Bachelor's
+EMP-0240,Marketing,SEO Specialist,2020-10-14,127167,15227.0,4.8,1.5,59,Male,High School
+EMP-0241,Sales,Sales Rep,2019-03-02,97089,10015.0,1.6,3.2,42,Female,Master's
+EMP-0242,Engineering,Tech Lead,2018-12-22,85753,10362.0,2.8,3.7,55,Male,Bachelor's
+EMP-0243,HR,HR Manager,2018-05-06,137956,2380.0,3.2,2.0,33,Female,Bachelor's
+EMP-0244,HR,Recruiter,2018-03-18,95482,7743.0,3.5,4.5,30,Female,Bachelor's
+EMP-0245,Sales,Sales Rep,2019-02-02,85949,10403.0,2.2,2.9,44,Female,Bachelor's
+EMP-0246,Sales,Sales Rep,2022-05-10,87882,1440.0,3.6,2.2,51,Male,Bachelor's
+EMP-0247,Operations,Operations Analyst,2020-09-05,132766,16317.0,1.9,4.2,55,Female,Bachelor's
+EMP-0248,Operations,Operations Analyst,2020-04-28,82683,911.0,4.5,4.9,28,Female,Bachelor's
+EMP-0249,Finance,Controller,2021-08-16,96931,1397.0,2.8,2.1,58,Female,High School
+EMP-0250,Finance,Financial Analyst,2021-09-03,100326,11040.0,1.7,3.5,47,Female,Master's
+EMP-0251,Finance,FP&A Manager,2015-05-15,122440,2839.0,3.3,2.9,38,Female,Bachelor's
+EMP-0252,HR,HR Manager,2020-11-19,124761,267.0,1.7,3.2,46,Female,Bachelor's
+EMP-0253,HR,HR Generalist,2019-02-04,55267,4805.0,1.1,4.5,55,Non-binary,Bachelor's
+EMP-0254,Engineering,Senior Engineer,2017-03-10,95884,6559.0,1.6,4.9,55,Non-binary,Bachelor's
+EMP-0255,Marketing,Content Manager,2020-02-04,63110,668.0,4.9,3.2,49,Non-binary,Master's
+EMP-0256,Marketing,Content Manager,2022-04-06,142853,8391.0,1.5,2.1,44,Non-binary,High School
+EMP-0257,Finance,Financial Analyst,2020-02-04,102297,11261.0,3.5,1.7,60,Female,Master's
+EMP-0258,Marketing,Brand Manager,2023-08-16,97787,12497.0,2.2,1.7,46,Male,Bachelor's
+EMP-0259,Operations,COO Staff,2021-11-27,162465,7891.0,3.4,1.2,31,Non-binary,Bachelor's
+EMP-0260,Marketing,SEO Specialist,2018-11-28,122148,8346.0,4.9,4.6,36,Female,Bachelor's
+EMP-0261,Marketing,Marketing Analyst,2015-04-20,109998,5777.0,4.8,3.2,45,Male,High School
+EMP-0262,Operations,Project Manager,2018-01-18,128995,13923.0,3.4,4.0,61,Female,High School
+EMP-0263,HR,HR Manager,2022-04-24,154078,974.0,2.9,4.1,54,Non-binary,Master's
+EMP-0264,Operations,Operations Analyst,2021-01-26,95378,1157.0,1.3,4.8,29,Female,Master's
+EMP-0265,Finance,Controller,2021-01-04,120988,13406.0,2.1,2.0,24,Non-binary,Master's
+EMP-0266,HR,Recruiter,2018-11-20,138008,15216.0,4.4,4.9,53,Non-binary,Bachelor's
+EMP-0267,Engineering,Software Engineer,2018-12-27,164141,11248.0,1.1,3.3,53,Female,Master's
+EMP-0268,Operations,Logistics Coord,2022-05-17,111236,15144.0,1.5,2.4,45,Non-binary,Bachelor's
+EMP-0269,Engineering,Tech Lead,2015-01-06,143362,2235.0,3.8,3.2,30,Male,Bachelor's
+EMP-0270,Marketing,SEO Specialist,2023-10-20,85358,6191.0,1.1,1.5,44,Male,Bachelor's
+EMP-0271,Engineering,DevOps Engineer,2018-06-16,166274,17319.0,4.1,1.2,45,Female,Master's
+EMP-0272,Marketing,SEO Specialist,2018-03-29,143226,9841.0,2.0,4.6,25,Non-binary,Bachelor's
+EMP-0273,Sales,BDR,2021-10-06,91547,407.0,3.5,4.4,25,Male,Master's
+EMP-0274,HR,Recruiter,2018-06-13,107079,10080.0,3.7,3.0,38,Male,High School
+EMP-0275,Marketing,Content Manager,2023-10-04,82733,10771.0,2.9,2.4,37,Male,PhD
+EMP-0276,HR,Recruiter,2018-11-10,130847,18794.0,2.4,2.4,30,Female,Bachelor's
+EMP-0277,Finance,Controller,2015-04-11,132367,14389.0,2.7,2.5,54,Female,Bachelor's
+EMP-0278,Operations,COO Staff,2016-04-01,112299,3776.0,1.2,1.7,44,Female,Bachelor's
+EMP-0279,Sales,Sales Manager,2019-12-27,85201,7945.0,2.4,3.3,62,Non-binary,PhD
+EMP-0280,Sales,Sales Manager,2016-04-29,92728,9589.0,2.2,1.1,46,Male,Master's
+EMP-0281,HR,HR Generalist,2022-04-11,124095,1971.0,1.3,1.4,47,Non-binary,Bachelor's
+EMP-0282,Finance,FP&A Manager,2018-08-27,132913,11241.0,1.7,3.3,28,Non-binary,Bachelor's
+EMP-0283,Operations,Project Manager,2020-03-07,95898,10340.0,1.3,1.0,28,Non-binary,Master's
+EMP-0284,HR,People Ops,2015-07-31,92556,11521.0,3.2,4.9,59,Non-binary,Bachelor's
+EMP-0285,Marketing,Brand Manager,2022-09-04,76489,4769.0,4.1,2.9,60,Male,PhD
+EMP-0286,Sales,BDR,2020-12-24,130193,11372.0,3.9,2.7,47,Non-binary,Master's
+EMP-0287,Operations,COO Staff,2023-02-26,120029,5696.0,3.7,3.2,34,Male,Master's
+EMP-0288,HR,HR Manager,2022-10-14,82066,5503.0,3.3,1.1,23,Female,Bachelor's
+EMP-0289,Engineering,Senior Engineer,2018-07-28,124193,12983.0,3.0,1.2,62,Non-binary,Master's
+EMP-0290,Sales,Sales Manager,2023-07-21,139197,20222.0,2.8,3.3,45,Non-binary,Master's
+EMP-0291,Engineering,Senior Engineer,2017-07-19,141420,737.0,3.1,2.8,35,Male,Master's
+EMP-0292,Operations,Project Manager,2016-03-22,118252,3034.0,1.9,4.0,38,Female,Bachelor's
+EMP-0293,Marketing,Content Manager,2015-08-17,94489,13672.0,1.7,2.4,53,Male,PhD
+EMP-0294,HR,Recruiter,2018-09-25,105274,1621.0,4.1,3.4,54,Female,Bachelor's
+EMP-0295,HR,HR Generalist,2020-03-18,69628,2678.0,4.6,1.1,55,Non-binary,High School
+EMP-0296,HR,HR Generalist,2017-08-09,147389,18359.0,2.1,1.8,48,Male,Bachelor's
+EMP-0297,Operations,COO Staff,2019-06-19,90050,3751.0,3.8,3.6,59,Non-binary,Master's
+EMP-0298,HR,HR Generalist,2016-01-23,76709,4142.0,3.9,1.4,62,Non-binary,Bachelor's
+EMP-0299,Sales,Sales Rep,2022-07-01,99512,5692.0,3.0,1.2,41,Non-binary,Bachelor's
+EMP-0300,HR,HR Generalist,2018-09-29,114654,4941.0,2.9,4.5,38,Male,Master's
+EMP-0301,Operations,Logistics Coord,2015-11-11,88592,12773.0,5.0,3.5,22,Female,Bachelor's
+EMP-0302,Finance,Accountant,2017-03-15,127760,5135.0,3.0,1.1,45,Female,Bachelor's
+EMP-0303,Operations,Project Manager,2019-01-05,95575,5761.0,3.0,3.4,26,Non-binary,Master's
+EMP-0304,Finance,Controller,2023-09-22,115523,7603.0,3.1,2.6,57,Male,High School
+EMP-0305,Sales,Sales Manager,2017-04-09,135542,18449.0,1.0,3.5,30,Female,Master's
+EMP-0306,Engineering,Tech Lead,2020-02-11,93253,12372.0,2.5,1.4,42,Male,Bachelor's
+EMP-0307,Operations,COO Staff,2021-09-04,113455,13025.0,3.5,4.0,47,Female,Bachelor's
+EMP-0308,HR,People Ops,2016-11-24,72297,3139.0,1.2,2.0,25,Female,Bachelor's
+EMP-0309,Engineering,Software Engineer,2020-04-06,107230,13481.0,1.4,4.4,46,Male,Bachelor's
+EMP-0310,Engineering,Software Engineer,2015-07-22,134303,19660.0,1.6,2.6,30,Male,Bachelor's
+EMP-0311,Finance,FP&A Manager,2023-01-10,79376,9185.0,3.5,4.7,41,Male,Bachelor's
+EMP-0312,Operations,Project Manager,2015-04-02,83739,1867.0,3.8,4.1,25,Male,High School
+EMP-0313,Marketing,Content Manager,2016-12-02,137962,11270.0,3.7,2.1,37,Female,High School
+EMP-0314,Finance,FP&A Manager,2018-10-06,120701,4169.0,1.6,2.3,46,Male,Master's
+EMP-0315,HR,People Ops,2023-04-05,86247,9008.0,2.1,3.9,46,Female,High School
+EMP-0316,Finance,FP&A Manager,2017-06-01,143141,8072.0,4.6,1.0,34,Male,Master's
+EMP-0317,Engineering,Software Engineer,2019-03-24,128865,1058.0,2.9,1.8,29,Non-binary,PhD
+EMP-0318,HR,People Ops,2020-06-29,75886,8490.0,4.7,1.8,33,Non-binary,Bachelor's
+EMP-0319,Sales,BDR,2021-02-05,115487,12581.0,1.7,2.2,54,Male,High School
+EMP-0320,HR,Recruiter,2017-02-01,110876,16492.0,4.8,4.4,34,Non-binary,Master's
+EMP-0321,Engineering,Senior Engineer,2023-02-04,144098,3531.0,2.4,5.0,46,Male,Bachelor's
+EMP-0322,Engineering,Tech Lead,2018-02-12,93087,4179.0,1.7,2.4,32,Male,Bachelor's
+EMP-0323,Marketing,SEO Specialist,2022-07-29,113976,449.0,3.7,3.6,36,Non-binary,Master's
+EMP-0324,Operations,Logistics Coord,2016-10-02,76743,7991.0,3.5,1.8,51,Female,Bachelor's
+EMP-0325,Marketing,SEO Specialist,2017-04-28,152320,16352.0,2.8,3.6,59,Female,Master's
+EMP-0326,Engineering,Software Engineer,2021-06-30,115977,11117.0,2.1,3.2,45,Non-binary,Bachelor's
+EMP-0327,Finance,Accountant,2017-07-10,117713,3212.0,3.8,1.8,22,Female,High School
+EMP-0328,HR,HR Generalist,2018-05-28,139087,10493.0,2.2,3.7,40,Female,Master's
+EMP-0329,Sales,Account Executive,2021-02-21,109429,4097.0,2.5,3.6,45,Male,Bachelor's
+EMP-0330,HR,Recruiter,2023-05-15,70526,1827.0,4.3,3.7,45,Non-binary,Master's
+EMP-0331,Sales,Sales Rep,2023-06-01,71239,9342.0,2.4,2.6,41,Male,Bachelor's
+EMP-0332,Operations,COO Staff,2015-04-18,128748,15178.0,4.7,4.3,25,Non-binary,Bachelor's
+EMP-0333,HR,HR Manager,2017-03-31,95313,6066.0,2.1,4.4,42,Male,PhD
+EMP-0334,Marketing,Marketing Analyst,2023-02-23,111911,12296.0,1.6,2.6,26,Female,PhD
+EMP-0335,Sales,Sales Rep,2018-11-15,81086,1817.0,4.4,2.1,29,Male,Master's
+EMP-0336,Sales,BDR,2021-12-10,107209,14693.0,3.9,2.0,26,Non-binary,PhD
+EMP-0337,Marketing,SEO Specialist,2021-07-30,87257,5814.0,2.8,2.9,49,Female,Master's
+EMP-0338,Operations,COO Staff,2020-09-04,93737,5815.0,4.7,1.9,51,Non-binary,Master's
+EMP-0339,HR,HR Generalist,2023-03-23,62264,342.0,1.5,5.0,40,Non-binary,Master's
+EMP-0340,Sales,BDR,2016-06-11,152560,2398.0,4.0,2.9,59,Non-binary,High School
+EMP-0341,Sales,Sales Manager,2022-05-18,97902,14229.0,3.9,2.8,34,Non-binary,High School
+EMP-0342,Sales,Account Executive,2021-09-27,73626,2297.0,3.9,2.7,25,Female,High School
+EMP-0343,Engineering,Software Engineer,2022-09-06,124290,18043.0,1.3,4.2,45,Male,Bachelor's
+EMP-0344,Sales,BDR,2019-05-05,112306,6995.0,4.1,2.8,44,Non-binary,Bachelor's
+EMP-0345,Engineering,Tech Lead,2015-10-22,143251,7137.0,1.1,2.4,39,Non-binary,Bachelor's
+EMP-0346,HR,People Ops,2015-09-24,64920,3338.0,1.9,2.6,28,Female,Bachelor's
+EMP-0347,Engineering,DevOps Engineer,2016-01-30,125274,4812.0,4.0,3.5,38,Male,High School
+EMP-0348,Engineering,DevOps Engineer,2022-10-28,113767,14902.0,1.7,2.3,35,Male,Master's
+EMP-0349,Engineering,DevOps Engineer,2017-02-04,111701,2440.0,2.8,2.3,24,Non-binary,Master's
+EMP-0350,Sales,Sales Manager,2021-02-25,71810,5575.0,3.9,1.1,61,Female,Master's
+EMP-0351,Marketing,SEO Specialist,2015-06-09,94080,1399.0,1.1,4.7,61,Non-binary,Bachelor's
+EMP-0352,Engineering,Software Engineer,2021-09-03,103771,9513.0,3.0,1.7,61,Female,PhD
+EMP-0353,Engineering,Senior Engineer,2020-11-03,157039,10540.0,4.6,3.9,43,Non-binary,Bachelor's
+EMP-0354,Sales,Account Executive,2018-05-05,95206,10106.0,4.3,1.6,49,Female,Master's
+EMP-0355,HR,Recruiter,2022-01-05,152623,13627.0,2.6,2.7,39,Non-binary,High School
+EMP-0356,Engineering,Software Engineer,2021-05-05,113475,10903.0,1.5,4.5,31,Female,Bachelor's
+EMP-0357,Operations,COO Staff,2021-12-04,135228,10480.0,3.7,2.8,54,Male,High School
+EMP-0358,Engineering,Senior Engineer,2021-11-02,119252,14174.0,3.5,1.3,36,Male,Master's
+EMP-0359,Engineering,Tech Lead,2015-08-13,151886,12802.0,3.7,4.2,46,Male,Master's
+EMP-0360,HR,Recruiter,2016-09-10,69621,6158.0,4.9,3.9,30,Female,Master's
+EMP-0361,HR,HR Generalist,2019-09-30,137354,15986.0,4.9,4.4,23,Non-binary,Bachelor's
+EMP-0362,Operations,Project Manager,2017-01-09,118701,11721.0,3.7,5.0,47,Female,Bachelor's
+EMP-0363,HR,HR Generalist,2024-01-08,121832,3779.0,4.3,3.4,44,Male,Bachelor's
+EMP-0364,Operations,COO Staff,2015-02-05,154431,18347.0,2.4,1.1,23,Non-binary,High School
+EMP-0365,Engineering,Software Engineer,2019-09-01,135591,12727.0,1.7,1.2,59,Non-binary,Master's
+EMP-0366,Sales,Sales Manager,2023-12-21,106915,1248.0,3.3,2.2,26,Male,Bachelor's
+EMP-0367,HR,HR Generalist,2015-02-22,93547,9811.0,3.4,4.0,59,Non-binary,PhD
+EMP-0368,HR,People Ops,2023-07-20,67615,6393.0,1.4,4.6,41,Non-binary,Master's
+EMP-0369,Marketing,Brand Manager,2021-11-03,130690,281.0,1.5,4.8,50,Female,Bachelor's
+EMP-0370,Operations,Operations Analyst,2019-12-03,86142,4301.0,1.1,3.8,24,Female,Bachelor's
+EMP-0371,HR,HR Manager,2018-09-23,114747,14088.0,2.4,4.8,30,Male,Master's
+EMP-0372,Engineering,Senior Engineer,2017-03-21,147576,20959.0,1.2,2.7,40,Non-binary,Bachelor's
+EMP-0373,Sales,BDR,2023-08-29,114224,13616.0,4.8,4.6,37,Female,Master's
+EMP-0374,HR,HR Manager,2020-07-26,86183,13.0,1.4,1.2,56,Male,Master's
+EMP-0375,Operations,Operations Analyst,2015-12-31,101789,13073.0,1.5,2.0,31,Male,Bachelor's
+EMP-0376,Marketing,SEO Specialist,2021-09-12,71289,7329.0,1.1,2.9,53,Non-binary,Bachelor's
+EMP-0377,Sales,Sales Rep,2021-04-23,101348,281.0,4.5,2.0,39,Non-binary,High School
+EMP-0378,Marketing,SEO Specialist,2019-11-14,121710,17501.0,1.6,3.8,51,Non-binary,Master's
+EMP-0379,HR,Recruiter,2018-10-26,87175,3512.0,3.6,4.4,24,Male,Master's
+EMP-0380,Engineering,Senior Engineer,2023-12-02,169480,10481.0,3.9,3.3,27,Non-binary,Bachelor's
+EMP-0381,Sales,BDR,2017-10-21,137439,18009.0,3.5,4.6,34,Non-binary,Bachelor's
+EMP-0382,Sales,Sales Manager,2020-12-20,83981,537.0,1.9,2.2,50,Female,High School
+EMP-0383,Operations,Logistics Coord,2023-03-17,94731,10176.0,1.9,3.7,50,Male,Bachelor's
+EMP-0384,Operations,Operations Analyst,2018-09-10,119587,7863.0,1.9,4.0,60,Female,Bachelor's
+EMP-0385,Marketing,Marketing Analyst,2022-05-02,146001,5583.0,3.8,1.1,32,Female,PhD
+EMP-0386,Marketing,Brand Manager,2017-04-10,122946,5448.0,3.9,3.6,42,Male,Master's
+EMP-0387,Marketing,Marketing Analyst,2023-03-31,125395,85.0,3.1,3.4,24,Male,High School
+EMP-0388,HR,HR Manager,2020-08-18,142343,14469.0,3.8,1.5,45,Female,Bachelor's
+EMP-0389,Marketing,Content Manager,2022-11-17,125159,11989.0,1.2,3.6,40,Non-binary,Bachelor's
+EMP-0390,Operations,Project Manager,2017-03-04,149659,11831.0,4.6,4.0,46,Female,Master's
+EMP-0391,Engineering,Software Engineer,2020-12-15,130535,7662.0,1.2,3.4,47,Female,PhD
+EMP-0392,Marketing,Content Manager,2015-04-01,73421,5279.0,2.9,3.4,28,Non-binary,High School
+EMP-0393,Sales,BDR,2015-11-07,115589,6223.0,3.1,4.1,36,Male,PhD
+EMP-0394,Sales,Sales Manager,2020-12-01,80331,1795.0,5.0,4.0,44,Female,Master's
+EMP-0395,Finance,Accountant,2020-11-03,112544,1824.0,3.6,4.0,41,Male,Master's
+EMP-0396,Engineering,DevOps Engineer,2016-06-28,128437,883.0,1.8,2.4,25,Non-binary,Master's
+EMP-0397,Engineering,DevOps Engineer,2020-01-03,159687,20771.0,2.3,1.1,42,Male,PhD
+EMP-0398,Sales,BDR,2022-12-30,159355,1426.0,1.9,4.4,35,Male,PhD
+EMP-0399,Engineering,Tech Lead,2018-02-24,115643,1466.0,2.4,4.3,49,Non-binary,Bachelor's
+EMP-0400,Finance,Controller,2022-03-11,120235,4964.0,4.5,4.2,32,Non-binary,Bachelor's
+EMP-0401,Marketing,Brand Manager,2015-11-04,109322,7275.0,1.6,2.8,45,Non-binary,Bachelor's
+EMP-0402,Marketing,Marketing Analyst,2019-05-21,95881,424.0,3.0,2.0,27,Non-binary,Bachelor's
+EMP-0403,Engineering,Software Engineer,2016-09-27,109256,5366.0,3.7,4.2,43,Non-binary,Master's
+EMP-0404,HR,Recruiter,2022-01-07,121006,14651.0,3.2,2.9,46,Female,Bachelor's
+EMP-0405,Marketing,Content Manager,2018-03-05,99339,5134.0,4.5,2.8,22,Male,Bachelor's
+EMP-0406,Marketing,Brand Manager,2018-11-01,125191,3396.0,1.9,3.7,52,Female,Bachelor's
+EMP-0407,HR,HR Manager,2015-02-26,90637,3186.0,2.2,3.5,54,Non-binary,Bachelor's
+EMP-0408,HR,HR Manager,2017-08-28,131642,7885.0,2.2,4.8,33,Non-binary,High School
+EMP-0409,Finance,Controller,2017-11-18,110786,14714.0,3.0,2.6,54,Non-binary,Master's
+EMP-0410,Finance,Financial Analyst,2019-04-27,93955,10887.0,4.5,1.7,50,Male,Bachelor's
+EMP-0411,Marketing,SEO Specialist,2015-09-15,91277,11655.0,2.4,3.8,36,Female,Master's
+EMP-0412,Operations,Logistics Coord,2021-07-15,79007,7346.0,3.6,4.6,37,Non-binary,Bachelor's
+EMP-0413,Sales,Account Executive,2021-11-25,78090,10507.0,4.1,4.3,56,Male,Bachelor's
+EMP-0414,HR,People Ops,2022-02-19,164063,15302.0,3.2,2.8,34,Female,PhD
+EMP-0415,Marketing,Brand Manager,2024-01-12,90681,6330.0,1.4,2.8,51,Male,Bachelor's
+EMP-0416,Finance,Financial Analyst,2019-07-12,110667,2604.0,4.0,1.8,52,Male,Bachelor's
+EMP-0417,Finance,FP&A Manager,2015-03-24,93108,9758.0,4.9,4.6,58,Non-binary,Master's
+EMP-0418,HR,People Ops,2019-10-04,123187,3134.0,4.0,3.6,61,Non-binary,Bachelor's
+EMP-0419,Operations,COO Staff,2023-04-05,119795,1366.0,1.6,2.2,58,Non-binary,Master's
+EMP-0420,Marketing,SEO Specialist,2019-10-02,132959,8775.0,4.9,2.8,47,Female,High School
+EMP-0421,Sales,Sales Manager,2018-09-29,122576,8386.0,2.5,1.7,42,Male,Bachelor's
+EMP-0422,Engineering,Software Engineer,2023-07-04,147284,1551.0,4.1,2.0,43,Female,Bachelor's
+EMP-0423,Sales,BDR,2018-07-12,73137,5682.0,1.7,1.7,26,Non-binary,Bachelor's
+EMP-0424,Finance,Controller,2023-10-09,80659,7304.0,1.0,4.3,49,Female,Bachelor's
+EMP-0425,HR,Recruiter,2023-11-24,66758,8490.0,4.6,2.2,37,Non-binary,Bachelor's
+EMP-0426,HR,HR Manager,2015-02-03,82704,10610.0,4.8,2.0,33,Non-binary,High School
+EMP-0427,Engineering,Senior Engineer,2020-01-22,130501,6411.0,4.4,1.3,59,Non-binary,Master's
+EMP-0428,Sales,BDR,2016-01-26,95212,10038.0,2.9,2.4,56,Non-binary,Master's
+EMP-0429,Sales,Account Executive,2017-12-24,68034,8181.0,1.9,2.2,46,Male,Master's
+EMP-0430,HR,Recruiter,2017-08-21,121857,7665.0,4.4,2.2,41,Non-binary,Bachelor's
+EMP-0431,Finance,Financial Analyst,2017-03-05,83231,9383.0,4.1,4.4,34,Non-binary,Bachelor's
+EMP-0432,Engineering,DevOps Engineer,2021-07-05,89607,3959.0,3.5,4.5,26,Male,Master's
+EMP-0433,Marketing,SEO Specialist,2022-03-15,110012,12561.0,3.5,1.2,60,Non-binary,Bachelor's
+EMP-0434,Marketing,Marketing Analyst,2020-08-20,145462,10476.0,4.5,1.4,23,Male,Bachelor's
+EMP-0435,Operations,Project Manager,2016-03-05,141261,7821.0,1.0,3.7,45,Non-binary,Bachelor's
+EMP-0436,Sales,BDR,2021-04-07,99426,14729.0,1.2,3.5,46,Non-binary,High School
+EMP-0437,Marketing,Marketing Analyst,2015-01-26,105820,13721.0,2.3,4.9,39,Female,Bachelor's
+EMP-0438,Engineering,Senior Engineer,2017-09-11,101290,6325.0,4.7,3.0,34,Male,Bachelor's
+EMP-0439,Engineering,Software Engineer,2018-09-23,137798,12804.0,4.0,3.6,30,Non-binary,High School
+EMP-0440,Operations,COO Staff,2019-04-02,125919,15912.0,5.0,3.5,25,Non-binary,Master's
+EMP-0441,Marketing,Brand Manager,2022-03-20,96480,6025.0,4.8,3.3,23,Female,PhD
+EMP-0442,Sales,Account Executive,2015-04-22,98902,13201.0,4.9,2.7,55,Male,Bachelor's
+EMP-0443,Engineering,Tech Lead,2021-12-31,107821,6227.0,1.8,2.2,62,Male,Master's
+EMP-0444,Finance,FP&A Manager,2015-01-13,87023,11099.0,2.7,4.8,45,Male,Bachelor's
+EMP-0445,Operations,Operations Analyst,2023-11-28,97789,11310.0,4.9,4.0,41,Non-binary,PhD
+EMP-0446,Finance,Financial Analyst,2015-06-26,126195,5011.0,2.1,4.5,43,Female,Bachelor's
+EMP-0447,Engineering,DevOps Engineer,2016-10-29,181873,19574.0,1.1,2.3,62,Female,Master's
+EMP-0448,Operations,Logistics Coord,2017-04-19,85525,4742.0,3.3,3.5,37,Non-binary,Master's
+EMP-0449,Finance,Financial Analyst,2019-12-10,129973,13398.0,3.5,3.7,45,Male,High School
+EMP-0450,Finance,Controller,2023-01-12,144204,927.0,3.8,1.8,38,Male,Bachelor's
+EMP-0451,Engineering,Senior Engineer,2020-06-05,137741,10618.0,1.8,3.9,56,Male,Bachelor's
+EMP-0452,Engineering,Senior Engineer,2023-06-06,146789,1818.0,1.2,4.9,57,Female,Bachelor's
+EMP-0453,Operations,Logistics Coord,2022-10-05,121973,1126.0,2.0,2.8,57,Male,Master's
+EMP-0454,Sales,Sales Rep,2018-01-26,120575,258.0,1.2,1.3,28,Male,Master's
+EMP-0455,Operations,COO Staff,2015-01-10,69145,386.0,2.1,4.3,41,Non-binary,Master's
+EMP-0456,Operations,Project Manager,2020-09-04,96569,13402.0,1.0,3.9,40,Non-binary,Bachelor's
+EMP-0457,Sales,Sales Manager,2019-04-27,107811,2363.0,4.4,2.7,39,Female,Bachelor's
+EMP-0458,Marketing,Brand Manager,2021-11-12,64174,1836.0,1.5,2.3,59,Female,Bachelor's
+EMP-0459,HR,HR Generalist,2020-10-10,72271,10510.0,1.6,4.0,24,Non-binary,Bachelor's
+EMP-0460,Sales,Account Executive,2016-05-20,89372,5202.0,4.2,5.0,58,Female,Bachelor's
+EMP-0461,Operations,Operations Analyst,2016-11-05,62106,6611.0,1.9,3.8,29,Female,Bachelor's
+EMP-0462,HR,HR Manager,2022-04-18,117967,8223.0,2.0,1.9,34,Female,Bachelor's
+EMP-0463,Engineering,Tech Lead,2019-05-30,117031,15640.0,1.7,3.0,53,Female,Master's
+EMP-0464,Operations,Operations Analyst,2022-07-23,104971,15680.0,3.9,4.1,22,Female,Master's
+EMP-0465,Sales,Sales Rep,2016-10-24,158611,12484.0,1.3,3.2,47,Male,Bachelor's
+EMP-0466,HR,People Ops,2022-11-07,67616,5091.0,1.7,2.1,29,Male,Master's
+EMP-0467,Sales,Sales Rep,2020-09-15,116507,13067.0,4.0,1.3,43,Female,High School
+EMP-0468,Sales,Sales Manager,2017-11-14,98434,3644.0,2.3,1.6,52,Male,Bachelor's
+EMP-0469,Sales,Account Executive,2022-03-19,103897,10442.0,3.3,1.2,32,Male,Master's
+EMP-0470,Finance,Financial Analyst,2019-04-22,153227,7225.0,1.4,3.6,38,Male,High School
+EMP-0471,Operations,Logistics Coord,2017-09-27,125324,2006.0,2.5,4.0,46,Male,Master's
+EMP-0472,Marketing,Marketing Analyst,2018-02-23,78020,9946.0,1.9,1.1,29,Male,High School
+EMP-0473,HR,HR Manager,2018-03-01,82554,3075.0,3.6,3.0,23,Female,Bachelor's
+EMP-0474,Finance,Accountant,2015-04-07,101376,14331.0,1.5,1.2,41,Non-binary,Bachelor's
+EMP-0475,Finance,FP&A Manager,2020-01-17,170388,17784.0,2.4,3.7,49,Non-binary,Master's
+EMP-0476,Engineering,Software Engineer,2020-01-09,106049,10992.0,4.1,3.5,46,Female,Bachelor's
+EMP-0477,HR,People Ops,2019-08-10,90851,6896.0,4.8,2.8,28,Non-binary,Master's
+EMP-0478,HR,HR Manager,2022-02-13,71366,1970.0,1.2,1.3,52,Male,Master's
+EMP-0479,Marketing,Content Manager,2017-08-22,114994,11194.0,4.6,1.8,57,Male,Master's
+EMP-0480,Marketing,Content Manager,2019-11-02,73429,10847.0,4.0,3.5,52,Female,Master's
+EMP-0481,HR,People Ops,2016-04-03,62748,5681.0,3.1,3.9,43,Male,Master's
+EMP-0482,Engineering,Tech Lead,2016-06-09,163345,5877.0,1.2,1.8,29,Female,Master's
+EMP-0483,Finance,FP&A Manager,2018-05-19,83183,1625.0,2.6,1.7,41,Female,Master's
+EMP-0484,Finance,Controller,2020-01-01,129302,1342.0,2.1,3.6,53,Female,Master's
+EMP-0485,Finance,Financial Analyst,2022-01-12,136163,1337.0,4.6,4.3,53,Non-binary,Bachelor's
+EMP-0486,Sales,Sales Manager,2023-03-23,62363,4559.0,2.0,3.0,38,Male,Bachelor's
+EMP-0487,Marketing,Brand Manager,2019-05-16,127245,8165.0,1.2,2.2,47,Non-binary,Bachelor's
+EMP-0488,Engineering,Software Engineer,2016-11-22,131839,14631.0,3.9,3.6,40,Female,Bachelor's
+EMP-0489,Finance,FP&A Manager,2019-03-16,137251,14417.0,2.9,1.9,37,Non-binary,Master's
+EMP-0490,Engineering,Software Engineer,2018-09-01,138246,17729.0,1.5,1.9,43,Female,Master's
+EMP-0491,Operations,Logistics Coord,2021-09-12,121468,8322.0,4.2,3.9,60,Non-binary,High School
+EMP-0492,HR,HR Generalist,2018-10-13,108487,15764.0,1.1,1.1,53,Male,Bachelor's
+EMP-0493,Sales,Sales Rep,2018-12-10,76350,6731.0,1.4,1.7,62,Non-binary,Bachelor's
+EMP-0494,HR,Recruiter,2019-02-08,84728,4346.0,3.6,3.5,42,Male,Bachelor's
+EMP-0495,Sales,Sales Manager,2022-04-16,103181,6246.0,4.7,4.0,39,Male,Bachelor's
+EMP-0496,Marketing,Content Manager,2016-06-04,74440,573.0,1.3,2.7,58,Female,High School
+EMP-0497,Marketing,Brand Manager,2022-09-13,88421,1417.0,2.1,2.8,25,Non-binary,Bachelor's
+EMP-0498,Marketing,Brand Manager,2015-08-14,78754,6776.0,5.0,4.9,58,Female,Bachelor's
+EMP-0499,Finance,Accountant,2023-03-20,93481,15.0,3.9,1.2,58,Female,PhD
+EMP-0500,Engineering,Tech Lead,2018-01-21,163497,16418.0,1.5,2.6,59,Female,High School
+EMP-0501,Operations,Operations Analyst,2015-05-16,70365,5676.0,2.5,2.6,24,Female,High School
+EMP-0502,HR,Recruiter,2019-01-25,77506,1393.0,4.9,2.9,29,Non-binary,Bachelor's
+EMP-0503,Finance,Accountant,2018-10-13,136959,10745.0,2.4,1.3,39,Non-binary,Master's
+EMP-0504,Sales,Account Executive,2015-07-11,81898,11082.0,1.9,4.2,24,Female,Bachelor's
+EMP-0505,Marketing,Content Manager,2021-12-05,134803,18829.0,3.4,2.3,54,Non-binary,Bachelor's
+EMP-0506,HR,People Ops,2023-02-28,96775,5770.0,1.3,4.1,52,Non-binary,Master's
+EMP-0507,HR,Recruiter,2016-04-28,122687,1911.0,4.2,1.1,44,Male,Master's
+EMP-0508,Finance,Accountant,2019-01-31,102305,14177.0,1.7,1.8,53,Female,High School
+EMP-0509,Sales,Sales Rep,2022-01-21,119022,3341.0,2.1,3.7,47,Non-binary,Bachelor's
+EMP-0510,Engineering,Tech Lead,2019-09-09,105308,1656.0,3.9,2.5,62,Female,Bachelor's
+EMP-0511,Finance,Accountant,2021-05-27,117448,8259.0,1.5,4.6,41,Non-binary,Bachelor's
+EMP-0512,Operations,COO Staff,2020-04-23,110917,11137.0,1.3,1.6,61,Female,Master's
+EMP-0513,Operations,Logistics Coord,2021-08-01,88328,9913.0,4.0,2.1,53,Female,Master's
+EMP-0514,Marketing,Brand Manager,2015-02-13,100694,3105.0,2.7,4.3,32,Male,PhD
+EMP-0515,Marketing,SEO Specialist,2023-08-27,125606,6133.0,5.0,2.6,40,Non-binary,Master's
+EMP-0516,Sales,Sales Rep,2015-05-09,83228,11378.0,2.3,2.6,37,Male,Master's
+EMP-0517,Operations,COO Staff,2023-07-13,129505,2241.0,4.3,3.0,29,Male,Bachelor's
+EMP-0518,Operations,Project Manager,2015-11-13,117295,7133.0,2.2,1.6,31,Male,Master's
+EMP-0519,Finance,Accountant,2017-11-19,121010,1283.0,2.8,4.2,52,Female,High School
+EMP-0520,HR,HR Manager,2022-07-06,100168,3882.0,4.7,2.5,55,Non-binary,PhD
+EMP-0521,Marketing,Brand Manager,2021-07-25,103113,8656.0,1.9,3.7,25,Non-binary,Bachelor's
+EMP-0522,Marketing,Brand Manager,2022-02-16,119145,2009.0,4.3,3.3,46,Female,Bachelor's
+EMP-0523,HR,HR Generalist,2021-08-08,106302,5887.0,2.3,1.2,25,Male,Master's
+EMP-0524,HR,HR Manager,2022-10-05,61609,3781.0,4.3,2.1,22,Non-binary,Bachelor's
+EMP-0525,Engineering,Senior Engineer,2017-12-20,114821,2446.0,1.4,4.2,40,Female,Master's
+EMP-0526,HR,Recruiter,2022-09-07,108638,6643.0,3.9,3.0,39,Non-binary,Bachelor's
+EMP-0527,Marketing,Brand Manager,2023-03-05,100768,11018.0,2.0,2.6,58,Non-binary,Bachelor's
+EMP-0528,Sales,Sales Rep,2015-12-17,112557,13203.0,3.5,2.4,54,Male,Master's
+EMP-0529,Operations,COO Staff,2015-04-15,85866,7593.0,3.0,4.0,60,Non-binary,Bachelor's
+EMP-0530,Engineering,Tech Lead,2017-08-04,91811,5427.0,1.7,1.6,39,Female,Bachelor's
+EMP-0531,Marketing,Content Manager,2017-11-26,131815,2691.0,3.0,4.2,52,Male,Bachelor's
+EMP-0532,Marketing,Marketing Analyst,2016-08-21,102062,4900.0,4.1,2.6,59,Male,Master's
+EMP-0533,Marketing,Brand Manager,2015-12-16,91005,9619.0,2.6,4.3,26,Female,High School
+EMP-0534,HR,Recruiter,2016-03-11,105501,3557.0,3.3,2.7,22,Non-binary,PhD
+EMP-0535,HR,HR Manager,2019-07-22,92348,5473.0,2.2,4.8,26,Non-binary,High School
+EMP-0536,Engineering,Senior Engineer,2020-02-01,103909,2417.0,3.9,1.5,27,Non-binary,Bachelor's
+EMP-0537,HR,HR Manager,2017-06-09,92902,6029.0,3.8,4.4,43,Male,PhD
+EMP-0538,HR,People Ops,2021-12-14,136179,12637.0,4.0,1.3,60,Female,PhD
+EMP-0539,HR,People Ops,2016-07-18,88034,2606.0,2.1,2.2,58,Female,Master's
+EMP-0540,Sales,Account Executive,2023-04-11,121368,4896.0,4.5,2.0,31,Female,Master's
+EMP-0541,HR,Recruiter,2020-07-30,95437,6699.0,4.1,3.8,39,Male,Bachelor's
+EMP-0542,Engineering,Senior Engineer,2023-01-14,111362,13263.0,4.4,1.8,54,Male,Master's
+EMP-0543,Operations,Operations Analyst,2017-04-15,95919,1496.0,2.3,1.1,33,Non-binary,PhD
+EMP-0544,Finance,Accountant,2020-09-04,127246,14039.0,1.9,2.9,23,Female,Bachelor's
+EMP-0545,Operations,Logistics Coord,2022-04-17,76196,4875.0,1.8,3.7,40,Male,High School
+EMP-0546,HR,HR Generalist,2019-04-09,147534,5095.0,4.2,4.0,38,Female,Master's
+EMP-0547,Operations,Logistics Coord,2022-03-02,90878,8639.0,4.8,1.7,41,Male,Bachelor's
+EMP-0548,HR,Recruiter,2021-01-18,76575,1527.0,4.8,3.4,38,Female,Master's
+EMP-0549,Operations,Operations Analyst,2018-11-20,90439,6252.0,3.7,2.7,28,Non-binary,Master's
+EMP-0550,Finance,Financial Analyst,2018-04-16,117456,10517.0,1.8,4.7,42,Male,Master's
+EMP-0551,Sales,Sales Rep,2019-11-12,89278,1486.0,1.9,2.9,40,Female,High School
+EMP-0552,Engineering,DevOps Engineer,2017-09-14,93935,3192.0,3.7,2.9,37,Female,Bachelor's
+EMP-0553,Marketing,Brand Manager,2019-09-07,91981,8354.0,4.7,2.5,37,Male,Bachelor's
+EMP-0554,HR,HR Manager,2021-12-21,67709,7816.0,1.6,3.4,50,Male,Master's
+EMP-0555,Sales,Sales Rep,2021-11-15,124497,3649.0,3.5,4.9,46,Female,Bachelor's
+EMP-0556,Operations,COO Staff,2019-04-27,126531,13101.0,3.0,2.0,29,Non-binary,Master's
+EMP-0557,Operations,Logistics Coord,2020-01-30,97064,14188.0,2.3,1.0,47,Male,Bachelor's
+EMP-0558,Sales,Account Executive,2017-07-17,109522,9906.0,2.9,4.4,52,Female,Bachelor's
+EMP-0559,HR,People Ops,2021-07-11,139483,6157.0,2.0,2.4,25,Non-binary,Bachelor's
+EMP-0560,Marketing,Brand Manager,2018-09-14,79586,7716.0,1.6,4.0,33,Male,Bachelor's
+EMP-0561,Marketing,Content Manager,2020-06-14,160230,12299.0,4.6,4.4,34,Female,Bachelor's
+EMP-0562,Operations,Logistics Coord,2021-10-20,146590,10186.0,4.1,2.6,54,Female,Bachelor's
+EMP-0563,HR,Recruiter,2017-07-17,77311,5656.0,2.6,2.7,33,Non-binary,Bachelor's
+EMP-0564,Engineering,DevOps Engineer,2017-05-19,108524,15712.0,2.4,4.0,44,Male,Master's
+EMP-0565,Sales,Sales Rep,2020-11-05,135041,12464.0,3.0,3.6,60,Female,Bachelor's
+EMP-0566,Marketing,Marketing Analyst,2022-11-23,157779,3561.0,2.3,3.8,39,Male,Bachelor's
+EMP-0567,Marketing,SEO Specialist,2021-05-07,86667,9163.0,2.1,4.6,44,Female,Bachelor's
+EMP-0568,Engineering,DevOps Engineer,2018-06-29,140133,19124.0,3.2,4.8,53,Female,High School
+EMP-0569,Engineering,Tech Lead,2022-02-20,124603,12910.0,5.0,4.2,34,Female,Bachelor's
+EMP-0570,HR,People Ops,2020-01-29,92014,10895.0,3.6,2.8,60,Female,Bachelor's
+EMP-0571,Operations,Operations Analyst,2022-11-23,111020,10918.0,4.1,4.9,28,Non-binary,Master's
+EMP-0572,Engineering,DevOps Engineer,2024-01-10,108866,6665.0,2.5,1.2,29,Non-binary,Master's
+EMP-0573,HR,HR Generalist,2016-09-12,115483,2411.0,3.4,4.3,27,Non-binary,Bachelor's
+EMP-0574,Engineering,Software Engineer,2015-07-03,118642,1139.0,3.9,2.2,38,Non-binary,Master's
+EMP-0575,HR,Recruiter,2022-12-11,139313,7260.0,2.5,1.5,52,Non-binary,Bachelor's
+EMP-0576,Finance,Financial Analyst,2018-11-13,122292,8807.0,4.1,2.3,56,Female,Bachelor's
+EMP-0577,HR,Recruiter,2023-09-17,80226,10816.0,3.5,3.2,41,Non-binary,Master's
+EMP-0578,Sales,Sales Rep,2022-12-30,100884,4403.0,1.8,1.2,30,Female,High School
+EMP-0579,Engineering,Software Engineer,2022-06-03,126890,14674.0,2.0,4.4,38,Non-binary,High School
+EMP-0580,Sales,Account Executive,2022-08-28,93277,6772.0,4.5,4.9,35,Female,Master's
+EMP-0581,Operations,Project Manager,2016-03-30,118332,9710.0,4.3,4.3,28,Non-binary,Master's
+EMP-0582,Marketing,Marketing Analyst,2019-11-12,117504,11724.0,3.3,4.8,26,Non-binary,PhD
+EMP-0583,HR,HR Generalist,2021-02-06,65311,7861.0,4.7,1.6,37,Non-binary,Bachelor's
+EMP-0584,HR,People Ops,2023-12-12,59601,7511.0,4.2,2.8,42,Male,Master's
+EMP-0585,HR,HR Manager,2015-10-12,94691,8603.0,3.7,2.4,50,Non-binary,Bachelor's
+EMP-0586,HR,Recruiter,2016-10-27,145537,6684.0,1.1,1.6,54,Non-binary,Bachelor's
+EMP-0587,Finance,Accountant,2020-04-29,75227,7150.0,3.5,2.0,22,Non-binary,High School
+EMP-0588,Operations,Operations Analyst,2023-08-09,127627,9175.0,3.1,2.5,37,Non-binary,Bachelor's
+EMP-0589,Finance,Financial Analyst,2017-07-16,85755,2832.0,4.7,1.7,46,Female,Master's
+EMP-0590,Sales,Sales Rep,2021-06-19,89003,5196.0,3.1,3.3,32,Male,PhD
+EMP-0591,Sales,Sales Manager,2015-10-28,83361,20.0,4.7,4.9,45,Non-binary,Bachelor's
+EMP-0592,Sales,Sales Manager,2015-01-17,126151,8451.0,1.2,1.4,57,Female,High School
+EMP-0593,Marketing,Content Manager,2020-02-12,86913,4279.0,3.4,1.5,38,Non-binary,Master's
+EMP-0594,Finance,Accountant,2017-05-05,112325,2964.0,3.8,1.4,25,Male,Master's
+EMP-0595,Marketing,Marketing Analyst,2020-02-03,82192,2125.0,2.4,4.3,42,Female,Master's
+EMP-0596,Engineering,Senior Engineer,2015-08-17,137608,13285.0,3.0,3.4,35,Male,Master's
+EMP-0597,Marketing,Content Manager,2019-05-05,101954,6567.0,4.3,3.5,33,Male,PhD
+EMP-0598,HR,HR Manager,2017-05-01,92760,2979.0,2.5,4.6,44,Non-binary,Bachelor's
+EMP-0599,Finance,Controller,2016-10-15,124253,1192.0,4.8,3.4,42,Non-binary,High School
+EMP-0600,Operations,Logistics Coord,2020-08-03,90545,4950.0,1.8,2.8,34,Female,Master's
+EMP-0601,Operations,Project Manager,2023-08-19,110370,8411.0,3.2,4.6,53,Female,Bachelor's
+EMP-0602,Sales,Sales Manager,2018-08-10,115011,2029.0,2.6,2.5,25,Female,Bachelor's
+EMP-0603,Operations,COO Staff,2016-02-12,89223,5006.0,3.6,2.3,30,Female,Bachelor's
+EMP-0604,HR,HR Generalist,2017-12-10,93020,5273.0,3.4,3.5,24,Non-binary,Bachelor's
+EMP-0605,Sales,BDR,2017-06-21,94122,7161.0,4.1,4.3,54,Female,High School
+EMP-0606,Sales,Sales Rep,2018-09-14,103792,1.0,4.2,3.6,23,Non-binary,Master's
+EMP-0607,Marketing,SEO Specialist,2023-08-04,78293,9106.0,1.9,1.1,59,Non-binary,Master's
+EMP-0608,Sales,BDR,2017-09-24,83455,4058.0,3.9,4.5,40,Non-binary,Bachelor's
+EMP-0609,Finance,FP&A Manager,2022-07-08,127825,1870.0,3.7,4.8,39,Female,Master's
+EMP-0610,Finance,Accountant,2022-02-01,133121,19767.0,1.9,3.0,40,Non-binary,Master's
+EMP-0611,Finance,Financial Analyst,2017-07-01,138819,19657.0,4.7,3.6,60,Non-binary,Bachelor's
+EMP-0612,Marketing,Brand Manager,2015-11-21,166201,3235.0,1.0,3.8,26,Non-binary,High School
+EMP-0613,Operations,Logistics Coord,2023-08-05,137887,1309.0,1.3,4.6,49,Male,Bachelor's
+EMP-0614,Engineering,Software Engineer,2018-02-28,88383,8916.0,4.0,3.4,46,Non-binary,Master's
+EMP-0615,Finance,FP&A Manager,2015-04-25,134058,17030.0,2.4,3.0,55,Male,Bachelor's
+EMP-0616,Operations,Logistics Coord,2016-11-19,117979,1575.0,3.9,1.7,54,Female,Master's
+EMP-0617,Finance,Accountant,2018-08-05,160994,6555.0,1.1,2.9,50,Male,Bachelor's
+EMP-0618,Engineering,Tech Lead,2016-05-09,118364,10763.0,3.3,2.8,50,Female,PhD
+EMP-0619,HR,People Ops,2016-01-15,68170,9287.0,2.7,2.1,35,Female,Master's
+EMP-0620,Marketing,SEO Specialist,2021-09-27,120710,5670.0,4.1,2.4,45,Non-binary,PhD
+EMP-0621,HR,People Ops,2021-07-16,73248,6805.0,1.5,1.5,60,Non-binary,Bachelor's
+EMP-0622,Sales,BDR,2021-09-15,148841,639.0,4.5,4.4,33,Female,Bachelor's
+EMP-0623,Engineering,Software Engineer,2018-12-21,116953,14284.0,3.6,1.1,61,Female,Bachelor's
+EMP-0624,Finance,FP&A Manager,2023-10-05,125037,8803.0,3.8,3.4,34,Non-binary,Bachelor's
+EMP-0625,Operations,COO Staff,2019-01-08,92641,7880.0,3.0,3.9,59,Non-binary,High School
+EMP-0626,Operations,COO Staff,2016-04-07,124713,10498.0,1.4,4.1,27,Male,Master's
+EMP-0627,Marketing,Brand Manager,2017-05-03,128583,3897.0,2.1,1.7,27,Non-binary,PhD
+EMP-0628,Engineering,DevOps Engineer,2020-08-23,108821,7919.0,3.4,2.0,54,Female,Master's
+EMP-0629,Finance,Financial Analyst,2017-02-25,151735,15365.0,1.7,3.9,54,Male,Bachelor's
+EMP-0630,Engineering,Tech Lead,2022-05-22,131759,16090.0,2.0,2.3,60,Female,Bachelor's
+EMP-0631,Finance,Financial Analyst,2018-12-17,128804,9193.0,4.2,1.1,40,Male,Master's
+EMP-0632,Sales,Sales Rep,2020-09-24,61107,2701.0,1.5,4.1,53,Male,Master's
+EMP-0633,Finance,Accountant,2020-07-18,125637,9276.0,2.1,2.0,36,Male,Master's
+EMP-0634,Operations,COO Staff,2022-12-06,119446,14456.0,1.4,1.9,37,Female,Bachelor's
+EMP-0635,Marketing,Brand Manager,2015-07-12,108004,1324.0,4.5,4.4,61,Non-binary,Bachelor's
+EMP-0636,HR,HR Manager,2015-11-30,93642,1298.0,4.8,1.0,25,Female,Bachelor's
+EMP-0637,Finance,Accountant,2015-02-10,86405,5924.0,4.1,2.5,40,Non-binary,Master's
+EMP-0638,Sales,Account Executive,2016-06-07,105330,1837.0,3.8,4.6,43,Male,Master's
+EMP-0639,Engineering,Software Engineer,2021-10-17,115161,6512.0,4.7,4.9,59,Female,High School
+EMP-0640,Marketing,Marketing Analyst,2021-07-26,127358,17774.0,2.0,2.1,59,Female,Master's
+EMP-0641,HR,Recruiter,2016-08-23,105553,10429.0,4.1,2.2,38,Female,PhD
+EMP-0642,Operations,Operations Analyst,2017-08-03,122175,10428.0,3.3,4.8,46,Female,Bachelor's
+EMP-0643,Sales,Sales Manager,2022-10-12,94775,11387.0,2.9,3.1,40,Non-binary,Bachelor's
+EMP-0644,Sales,Account Executive,2022-06-22,137974,16499.0,2.2,2.3,23,Non-binary,Master's
+EMP-0645,Engineering,Tech Lead,2021-04-04,116938,5153.0,1.3,4.8,28,Male,Master's
+EMP-0646,Operations,COO Staff,2017-06-15,107936,9961.0,3.0,2.9,30,Non-binary,Master's
+EMP-0647,HR,HR Generalist,2016-10-30,93286,3602.0,1.7,2.3,22,Non-binary,Bachelor's
+EMP-0648,Finance,Accountant,2018-03-25,95304,6788.0,1.7,4.9,51,Male,High School
+EMP-0649,Sales,Sales Rep,2017-06-05,141904,17520.0,1.2,3.7,49,Male,Bachelor's
+EMP-0650,Finance,FP&A Manager,2019-03-08,117435,2806.0,5.0,3.1,55,Male,PhD
+EMP-0651,HR,HR Manager,2023-10-22,125638,14805.0,4.9,4.8,32,Male,Bachelor's
+EMP-0652,Sales,Sales Manager,2021-03-30,71930,5646.0,4.1,3.3,59,Non-binary,PhD
+EMP-0653,Operations,Operations Analyst,2023-12-17,103283,14784.0,3.5,1.7,29,Female,Master's
+EMP-0654,Operations,Project Manager,2019-08-14,83035,3179.0,1.8,4.7,42,Female,Bachelor's
+EMP-0655,Sales,Account Executive,2022-08-05,92447,6292.0,1.4,3.4,30,Non-binary,High School
+EMP-0656,Engineering,Senior Engineer,2018-02-08,105820,12304.0,4.3,4.9,24,Male,Master's
+EMP-0657,Engineering,DevOps Engineer,2017-02-28,114525,3806.0,2.2,1.9,55,Non-binary,Master's
+EMP-0658,HR,Recruiter,2020-08-21,98110,3519.0,3.3,1.1,53,Male,Master's
+EMP-0659,Engineering,Senior Engineer,2021-08-05,147014,9519.0,3.4,1.3,31,Female,Master's
+EMP-0660,Finance,Accountant,2018-04-06,119197,11648.0,2.4,5.0,50,Female,Bachelor's
+EMP-0661,Operations,Operations Analyst,2017-05-12,106165,1358.0,4.7,3.3,53,Non-binary,Bachelor's
+EMP-0662,Engineering,DevOps Engineer,2016-03-12,128450,16941.0,1.2,2.5,40,Male,Master's
+EMP-0663,HR,People Ops,2022-06-18,85742,11129.0,1.9,2.6,43,Female,Bachelor's
+EMP-0664,Engineering,Software Engineer,2019-08-11,97646,10991.0,2.4,4.4,37,Non-binary,Master's
+EMP-0665,HR,Recruiter,2022-03-01,122581,15023.0,1.4,3.8,39,Female,Bachelor's
+EMP-0666,HR,Recruiter,2016-12-13,61233,5440.0,1.3,1.6,48,Male,PhD
+EMP-0667,HR,Recruiter,2016-07-24,82689,7389.0,3.1,1.1,35,Non-binary,High School
+EMP-0668,Marketing,Brand Manager,2015-04-11,86247,4695.0,2.5,2.8,40,Non-binary,Master's
+EMP-0669,Marketing,SEO Specialist,2016-10-16,91986,4498.0,4.4,4.2,43,Non-binary,Master's
+EMP-0670,HR,People Ops,2021-10-01,85370,1181.0,2.5,4.6,25,Male,Bachelor's
+EMP-0671,Marketing,SEO Specialist,2019-12-12,90526,2162.0,4.9,2.7,50,Female,Master's
+EMP-0672,Marketing,Content Manager,2019-05-16,138942,1540.0,2.2,2.8,22,Female,Master's
+EMP-0673,Sales,Account Executive,2022-10-05,73413,476.0,3.4,2.7,31,Female,Bachelor's
+EMP-0674,HR,HR Generalist,2020-05-29,99873,1245.0,4.4,4.8,47,Male,Master's
+EMP-0675,Marketing,SEO Specialist,2017-06-28,148703,1541.0,2.7,1.5,46,Female,Bachelor's
+EMP-0676,Finance,Controller,2023-08-30,85021,9465.0,3.9,3.7,39,Male,Bachelor's
+EMP-0677,Engineering,Tech Lead,2017-05-25,93556,11797.0,2.9,4.9,25,Non-binary,Bachelor's
+EMP-0678,Finance,Financial Analyst,2018-10-18,143431,11345.0,4.0,4.6,54,Non-binary,PhD
+EMP-0679,Marketing,Brand Manager,2022-02-08,95119,8016.0,2.5,3.5,58,Non-binary,Master's
+EMP-0680,Operations,COO Staff,2023-03-25,91802,4027.0,1.6,3.3,25,Non-binary,Master's
+EMP-0681,Sales,Account Executive,2023-12-10,110543,7917.0,2.6,2.0,53,Non-binary,Bachelor's
+EMP-0682,Engineering,DevOps Engineer,2023-12-30,173126,12496.0,1.7,2.3,25,Non-binary,Bachelor's
+EMP-0683,Finance,Financial Analyst,2020-11-09,146522,14828.0,4.7,3.4,45,Male,Bachelor's
+EMP-0684,Finance,Accountant,2020-05-29,99324,1058.0,3.9,3.3,59,Male,Bachelor's
+EMP-0685,Marketing,Content Manager,2015-02-04,94712,10284.0,3.9,3.5,45,Non-binary,Master's
+EMP-0686,Marketing,SEO Specialist,2018-12-08,84502,5734.0,2.5,4.3,24,Non-binary,Master's
+EMP-0687,HR,HR Generalist,2015-09-24,89266,3863.0,4.2,2.1,28,Non-binary,PhD
+EMP-0688,Marketing,SEO Specialist,2017-05-15,71267,4569.0,2.3,4.8,46,Non-binary,Master's
+EMP-0689,Marketing,Content Manager,2015-06-13,139473,1482.0,1.4,1.3,34,Male,Master's
+EMP-0690,Operations,COO Staff,2016-02-20,75070,5957.0,2.6,2.8,25,Non-binary,Bachelor's
+EMP-0691,Operations,Project Manager,2019-09-01,106734,12839.0,4.2,2.8,61,Male,Bachelor's
+EMP-0692,HR,HR Generalist,2019-06-26,59883,5724.0,4.6,4.3,52,Female,High School
+EMP-0693,Finance,FP&A Manager,2017-06-01,89088,1767.0,3.5,3.8,47,Female,Master's
+EMP-0694,Engineering,Software Engineer,2020-11-27,113713,15529.0,4.1,4.2,24,Male,Bachelor's
+EMP-0695,Engineering,Software Engineer,2016-06-26,89602,9743.0,1.7,2.6,35,Non-binary,High School
+EMP-0696,Engineering,Software Engineer,2015-10-07,109832,12091.0,3.3,4.2,59,Male,High School
+EMP-0697,HR,People Ops,2020-05-07,130778,16539.0,1.2,4.9,40,Non-binary,Bachelor's
+EMP-0698,Engineering,DevOps Engineer,2016-09-05,122450,13660.0,2.5,3.3,38,Male,PhD
+EMP-0699,Finance,Controller,2016-05-12,156013,10125.0,1.6,1.3,53,Male,Master's
+EMP-0700,Marketing,SEO Specialist,2019-05-19,105371,4997.0,1.1,1.6,39,Non-binary,Bachelor's
+EMP-0701,Operations,Operations Analyst,2018-08-26,140122,17526.0,2.1,3.1,43,Non-binary,Bachelor's
+EMP-0702,Sales,Sales Manager,2016-08-03,64646,9390.0,3.6,1.6,35,Male,PhD
+EMP-0703,Marketing,Content Manager,2022-01-21,89272,4290.0,3.0,3.0,29,Non-binary,PhD
+EMP-0704,Marketing,Marketing Analyst,2016-01-05,81399,8427.0,3.5,3.6,22,Male,Bachelor's
+EMP-0705,Finance,FP&A Manager,2018-02-21,137534,6338.0,4.5,1.7,53,Non-binary,High School
+EMP-0706,Marketing,Marketing Analyst,2017-08-01,77393,363.0,3.3,2.5,47,Female,Master's
+EMP-0707,HR,Recruiter,2022-02-04,119918,2818.0,4.2,3.4,49,Non-binary,Bachelor's
+EMP-0708,Finance,Financial Analyst,2023-11-19,121821,13061.0,1.5,2.7,60,Female,Master's
+EMP-0709,Sales,Sales Manager,2020-03-31,99280,6877.0,4.8,2.0,62,Female,Bachelor's
+EMP-0710,Marketing,SEO Specialist,2023-05-16,95984,8380.0,3.5,1.7,51,Male,Bachelor's
+EMP-0711,Marketing,Brand Manager,2017-11-18,115439,13094.0,3.1,2.2,53,Female,Master's
+EMP-0712,Sales,BDR,2022-04-06,94642,832.0,4.6,1.1,23,Male,Master's
+EMP-0713,Sales,Account Executive,2023-06-27,110118,14059.0,4.9,2.2,34,Non-binary,PhD
+EMP-0714,Marketing,Content Manager,2023-11-08,82091,11777.0,3.9,1.9,46,Female,Bachelor's
+EMP-0715,Marketing,Content Manager,2019-02-03,144843,16737.0,3.7,2.2,62,Male,Master's
+EMP-0716,Marketing,Marketing Analyst,2022-02-16,76105,5328.0,2.6,4.2,26,Female,Master's
+EMP-0717,HR,HR Generalist,2016-04-16,67737,9402.0,2.4,4.1,28,Non-binary,Bachelor's
+EMP-0718,Marketing,Content Manager,2021-11-01,74870,3070.0,3.2,1.5,56,Female,Master's
+EMP-0719,HR,HR Manager,2019-03-22,61465,1862.0,3.4,4.5,45,Male,Bachelor's
+EMP-0720,HR,Recruiter,2015-06-07,67662,6653.0,3.4,4.3,25,Male,Master's
+EMP-0721,Sales,Sales Manager,2016-07-23,70590,4865.0,1.9,4.0,46,Female,Bachelor's
+EMP-0722,Sales,Account Executive,2022-01-18,133411,3776.0,1.0,3.5,33,Female,Master's
+EMP-0723,Marketing,Brand Manager,2022-10-17,119328,11480.0,1.4,2.0,25,Female,Bachelor's
+EMP-0724,Finance,FP&A Manager,2017-12-26,79826,10184.0,4.9,2.7,40,Male,Bachelor's
+EMP-0725,Engineering,DevOps Engineer,2016-04-03,137435,5799.0,1.8,3.9,54,Non-binary,High School
+EMP-0726,HR,HR Manager,2023-02-22,92013,8213.0,2.3,2.2,25,Female,Bachelor's
+EMP-0727,Operations,COO Staff,2023-11-12,102336,8964.0,3.0,2.3,54,Non-binary,Bachelor's
+EMP-0728,Marketing,SEO Specialist,2021-04-28,119875,9995.0,3.4,1.7,40,Female,Bachelor's
+EMP-0729,Sales,Sales Rep,2016-05-15,122860,393.0,1.5,3.5,61,Female,Bachelor's
+EMP-0730,HR,People Ops,2019-03-03,117239,3671.0,4.0,3.6,44,Female,Master's
+EMP-0731,Finance,FP&A Manager,2021-09-01,114414,3033.0,4.1,1.9,43,Male,PhD
+EMP-0732,Operations,Operations Analyst,2022-05-04,68940,3582.0,2.4,1.8,43,Non-binary,Bachelor's
+EMP-0733,Operations,Logistics Coord,2020-02-05,124822,15778.0,2.9,4.0,28,Male,Master's
+EMP-0734,Marketing,SEO Specialist,2015-05-11,121953,2250.0,5.0,4.0,29,Male,Bachelor's
+EMP-0735,Engineering,DevOps Engineer,2019-02-03,124882,10437.0,2.6,4.6,58,Non-binary,Bachelor's
+EMP-0736,Sales,Sales Rep,2018-06-19,111537,5211.0,3.2,4.5,52,Male,Bachelor's
+EMP-0737,Engineering,Senior Engineer,2017-06-02,152961,7997.0,3.8,3.1,59,Male,PhD
+EMP-0738,Sales,Sales Manager,2019-11-10,111960,2671.0,4.6,1.9,49,Female,Bachelor's
+EMP-0739,Marketing,Marketing Analyst,2015-01-01,95434,9221.0,3.5,4.7,48,Non-binary,Bachelor's
+EMP-0740,Operations,COO Staff,2022-06-23,119436,12445.0,2.9,1.4,36,Female,Master's
+EMP-0741,Marketing,Marketing Analyst,2015-05-28,139990,17363.0,2.5,3.4,30,Non-binary,Bachelor's
+EMP-0742,Operations,COO Staff,2018-02-01,132126,5773.0,2.7,4.3,37,Male,High School
+EMP-0743,Engineering,Software Engineer,2018-07-25,138377,6480.0,1.1,2.5,30,Male,Bachelor's
+EMP-0744,HR,HR Generalist,2016-11-26,88904,3079.0,2.5,1.5,42,Male,Bachelor's
+EMP-0745,Operations,Operations Analyst,2016-01-18,117923,3525.0,4.6,4.3,37,Non-binary,Bachelor's
+EMP-0746,HR,HR Generalist,2020-09-24,159414,6914.0,2.3,2.1,34,Male,High School
+EMP-0747,Operations,Logistics Coord,2023-04-12,122429,8974.0,4.7,1.5,40,Female,Master's
+EMP-0748,Operations,Logistics Coord,2016-02-02,79039,4759.0,1.8,1.7,45,Male,Master's
+EMP-0749,Marketing,Brand Manager,2020-02-14,83867,9241.0,2.9,3.0,46,Female,Master's
+EMP-0750,HR,HR Generalist,2020-02-13,72651,7836.0,2.5,2.7,46,Non-binary,Master's
+EMP-0751,Sales,Sales Rep,2019-10-14,115497,1419.0,1.2,3.1,48,Female,Bachelor's
+EMP-0752,Operations,Project Manager,2020-07-26,82656,3362.0,1.4,3.8,26,Male,Master's
+EMP-0753,Engineering,Tech Lead,2020-11-01,125259,5327.0,4.4,2.3,46,Male,High School
+EMP-0754,Engineering,Senior Engineer,2016-03-08,100999,5870.0,1.9,4.5,29,Non-binary,Bachelor's
+EMP-0755,Operations,Project Manager,2016-01-25,113539,8617.0,3.3,1.9,28,Non-binary,Bachelor's
+EMP-0756,Finance,Accountant,2015-01-12,91970,1343.0,3.1,1.3,45,Female,Bachelor's
+EMP-0757,Engineering,Software Engineer,2019-11-01,136132,14555.0,3.7,2.3,30,Male,Bachelor's
+EMP-0758,Sales,Sales Rep,2021-11-22,97254,3280.0,3.0,4.6,47,Female,Bachelor's
+EMP-0759,Operations,Operations Analyst,2015-11-15,126628,3917.0,4.4,4.1,51,Female,Bachelor's
+EMP-0760,Engineering,Senior Engineer,2022-08-02,126650,18051.0,4.2,4.1,44,Female,Master's
+EMP-0761,HR,People Ops,2020-10-25,82857,10914.0,2.3,4.0,49,Non-binary,Master's
+EMP-0762,Engineering,DevOps Engineer,2020-02-10,115241,2930.0,1.4,2.3,56,Non-binary,Bachelor's
+EMP-0763,Marketing,Marketing Analyst,2017-08-17,83036,9768.0,1.1,1.8,47,Male,Master's
+EMP-0764,Sales,BDR,2018-08-27,150809,10086.0,3.6,2.2,42,Female,Master's
+EMP-0765,Finance,Accountant,2017-06-10,98334,9068.0,3.2,1.7,30,Female,PhD
+EMP-0766,Finance,FP&A Manager,2023-09-26,118470,6244.0,1.9,1.3,26,Male,Bachelor's
+EMP-0767,Operations,COO Staff,2022-11-26,102293,10169.0,2.3,2.7,58,Female,Master's
+EMP-0768,Marketing,Brand Manager,2020-07-08,101306,1189.0,2.2,1.7,37,Non-binary,Master's
+EMP-0769,Operations,Project Manager,2019-10-03,79691,4407.0,2.8,4.6,61,Non-binary,Master's
+EMP-0770,Finance,FP&A Manager,2019-09-24,128373,14720.0,4.8,4.1,48,Female,Master's
+EMP-0771,Marketing,Content Manager,2022-08-17,95671,6989.0,2.0,4.4,24,Non-binary,Master's
+EMP-0772,Operations,Logistics Coord,2016-05-14,101754,11437.0,4.0,3.1,25,Male,Bachelor's
+EMP-0773,Sales,Sales Rep,2023-04-08,123083,13945.0,1.7,3.9,29,Female,Bachelor's
+EMP-0774,Operations,Project Manager,2022-06-14,65476,106.0,2.6,2.1,49,Non-binary,Bachelor's
+EMP-0775,Finance,Controller,2020-08-03,147898,15887.0,3.6,2.9,57,Non-binary,PhD
+EMP-0776,Sales,BDR,2020-03-20,161649,16987.0,2.9,1.4,60,Male,Bachelor's
+EMP-0777,Finance,Controller,2019-03-19,101336,8952.0,4.6,1.7,36,Non-binary,Master's
+EMP-0778,Sales,Sales Rep,2016-06-28,61691,7051.0,3.7,4.8,47,Non-binary,Master's
+EMP-0779,Finance,Controller,2017-07-26,78972,2219.0,2.5,4.2,25,Non-binary,Bachelor's
+EMP-0780,Engineering,Tech Lead,2016-01-31,100357,4103.0,1.7,3.9,48,Female,Master's
+EMP-0781,Marketing,Content Manager,2018-03-02,105723,9518.0,2.9,1.2,62,Non-binary,Bachelor's
+EMP-0782,Operations,Operations Analyst,2023-10-27,68862,10067.0,3.5,3.3,59,Female,High School
+EMP-0783,Sales,Account Executive,2019-12-25,132576,7923.0,1.6,4.0,50,Female,Bachelor's
+EMP-0784,Marketing,Marketing Analyst,2018-05-13,127046,12025.0,2.6,1.3,39,Non-binary,Bachelor's
+EMP-0785,Engineering,Tech Lead,2022-01-11,130124,3731.0,4.5,3.2,58,Non-binary,Master's
+EMP-0786,Sales,Account Executive,2015-05-11,62115,4843.0,2.3,4.7,41,Male,PhD
+EMP-0787,Engineering,Senior Engineer,2015-05-12,119183,3842.0,3.9,1.7,37,Female,Master's
+EMP-0788,Marketing,Marketing Analyst,2018-06-29,84229,791.0,4.5,2.8,54,Non-binary,Master's
+EMP-0789,HR,Recruiter,2021-10-16,78303,10025.0,3.6,3.9,40,Non-binary,Bachelor's
+EMP-0790,Operations,Project Manager,2020-07-20,69824,1422.0,4.6,3.2,30,Male,Master's
+EMP-0791,Engineering,DevOps Engineer,2022-09-02,121877,10374.0,1.9,1.9,39,Non-binary,High School
+EMP-0792,Operations,Logistics Coord,2021-12-24,127341,17197.0,3.8,4.9,42,Male,Master's
+EMP-0793,HR,Recruiter,2018-12-08,99695,7241.0,5.0,2.3,56,Non-binary,Bachelor's
+EMP-0794,Finance,FP&A Manager,2020-09-26,98858,5517.0,4.0,2.8,51,Male,Bachelor's
+EMP-0795,Finance,Accountant,2020-07-10,162390,9249.0,4.0,1.0,53,Non-binary,High School
+EMP-0796,Marketing,Content Manager,2019-10-03,154840,17997.0,3.9,2.2,33,Female,Bachelor's
+EMP-0797,Sales,Account Executive,2017-06-17,55348,5035.0,3.0,3.5,24,Female,PhD
+EMP-0798,Sales,BDR,2023-04-10,108176,9684.0,3.6,4.4,48,Non-binary,Master's
+EMP-0799,Sales,BDR,2022-11-02,97065,2598.0,1.8,3.3,32,Female,Bachelor's
+EMP-0800,HR,People Ops,2020-04-10,61783,3402.0,4.9,4.0,53,Non-binary,Bachelor's
+EMP-0801,Sales,Sales Manager,2018-08-21,140985,4533.0,3.3,2.0,48,Female,Bachelor's
+EMP-0802,Finance,Financial Analyst,2016-12-10,92614,4807.0,2.8,1.1,26,Male,Bachelor's
+EMP-0803,HR,HR Manager,2023-03-13,101082,11529.0,3.3,4.4,42,Female,PhD
+EMP-0804,Operations,COO Staff,2023-08-21,86194,7371.0,3.6,2.7,33,Male,Master's
+EMP-0805,Sales,BDR,2017-04-05,107649,15825.0,1.6,3.7,54,Male,Bachelor's
+EMP-0806,Engineering,Software Engineer,2018-07-18,95949,7565.0,4.4,3.1,49,Female,Bachelor's
+EMP-0807,HR,Recruiter,2021-11-14,152662,10954.0,2.0,4.5,62,Male,Master's
+EMP-0808,Finance,Accountant,2023-02-15,104902,3083.0,2.8,2.7,54,Male,Bachelor's
+EMP-0809,HR,Recruiter,2020-01-07,104122,3286.0,4.5,2.7,56,Male,PhD
+EMP-0810,HR,HR Manager,2018-09-24,76079,424.0,4.2,3.5,62,Non-binary,Bachelor's
+EMP-0811,Finance,FP&A Manager,2016-06-29,113902,1948.0,3.4,1.1,55,Female,PhD
+EMP-0812,Finance,FP&A Manager,2017-05-04,76454,10656.0,1.7,4.6,61,Non-binary,Bachelor's
+EMP-0813,Finance,FP&A Manager,2019-07-31,111874,11120.0,2.7,3.1,25,Female,Bachelor's
+EMP-0814,HR,People Ops,2022-07-10,132284,14128.0,3.8,2.9,56,Male,PhD
+EMP-0815,Engineering,Tech Lead,2017-12-20,186547,25390.0,3.0,4.1,58,Male,Bachelor's
+EMP-0816,Sales,Account Executive,2022-07-01,103640,6599.0,4.9,1.6,29,Male,Master's
+EMP-0817,Marketing,Content Manager,2020-08-02,109690,3090.0,2.4,3.1,39,Non-binary,Bachelor's
+EMP-0818,Finance,FP&A Manager,2016-08-01,104913,9132.0,1.1,2.0,45,Female,Bachelor's
+EMP-0819,HR,People Ops,2018-11-27,99776,7121.0,1.6,2.6,55,Female,High School
+EMP-0820,HR,Recruiter,2017-07-17,145923,11122.0,3.8,2.4,22,Male,Bachelor's
+EMP-0821,Finance,FP&A Manager,2016-10-21,151182,17782.0,4.9,3.6,42,Non-binary,High School
+EMP-0822,Sales,Sales Rep,2018-06-25,92132,6954.0,2.9,1.9,60,Female,Bachelor's
+EMP-0823,Marketing,SEO Specialist,2018-04-17,102117,9476.0,2.6,3.9,53,Female,Master's
+EMP-0824,Finance,FP&A Manager,2016-10-20,111060,2355.0,2.7,4.5,46,Non-binary,Master's
+EMP-0825,Sales,Account Executive,2016-08-28,70316,5240.0,1.5,4.1,25,Female,Master's
+EMP-0826,Finance,FP&A Manager,2017-09-23,151381,19446.0,3.8,4.6,28,Female,Bachelor's
+EMP-0827,Finance,FP&A Manager,2016-04-24,159000,22196.0,3.1,4.5,31,Male,Bachelor's
+EMP-0828,Engineering,Software Engineer,2018-11-26,87650,4811.0,4.5,2.4,58,Male,Master's
+EMP-0829,Operations,Project Manager,2018-07-29,80625,4304.0,2.7,1.7,33,Male,High School
+EMP-0830,Operations,Logistics Coord,2021-12-22,84954,10216.0,3.3,2.5,27,Female,Bachelor's
+EMP-0831,Finance,Accountant,2021-03-09,91086,1081.0,2.7,2.3,24,Female,High School
+EMP-0832,Operations,COO Staff,2015-02-23,128863,16227.0,4.3,1.8,29,Non-binary,Master's
+EMP-0833,Marketing,Brand Manager,2022-04-08,95977,1628.0,2.8,1.8,23,Non-binary,Bachelor's
+EMP-0834,Finance,Accountant,2018-02-02,113789,5359.0,3.2,4.6,55,Non-binary,Master's
+EMP-0835,Finance,FP&A Manager,2017-08-18,105159,117.0,3.6,3.2,25,Female,Bachelor's
+EMP-0836,Finance,Controller,2015-08-02,85872,7209.0,1.8,1.4,28,Male,Master's
+EMP-0837,Engineering,Tech Lead,2021-05-12,160944,10165.0,2.1,4.7,26,Non-binary,PhD
+EMP-0838,Sales,Sales Rep,2019-10-19,129623,6868.0,2.2,1.3,33,Female,Master's
+EMP-0839,Engineering,Tech Lead,2018-06-07,132706,10540.0,1.1,2.6,31,Male,High School
+EMP-0840,Operations,Operations Analyst,2021-07-21,99899,9721.0,2.2,3.5,28,Female,High School
+EMP-0841,Engineering,Senior Engineer,2019-09-05,110314,6532.0,2.5,2.5,25,Female,High School
+EMP-0842,Sales,Sales Rep,2022-10-22,122841,8435.0,2.3,3.2,58,Male,Master's
+EMP-0843,HR,Recruiter,2018-06-17,117813,8615.0,1.9,1.6,58,Non-binary,High School
+EMP-0844,Marketing,SEO Specialist,2023-03-17,87915,12237.0,2.6,4.4,59,Male,High School
+EMP-0845,HR,People Ops,2023-07-28,89622,10342.0,2.2,2.0,36,Male,High School
+EMP-0846,Engineering,Software Engineer,2023-07-18,113804,11501.0,1.9,2.8,62,Non-binary,Bachelor's
+EMP-0847,Marketing,Content Manager,2017-09-23,77604,1138.0,2.1,4.9,37,Female,Bachelor's
+EMP-0848,Engineering,Senior Engineer,2023-12-22,124326,3657.0,4.5,3.1,38,Non-binary,Bachelor's
+EMP-0849,Sales,BDR,2019-05-28,109623,6806.0,3.1,4.0,43,Non-binary,High School
+EMP-0850,Engineering,Tech Lead,2022-11-05,170544,19280.0,3.2,2.3,45,Male,PhD
+EMP-0851,Sales,Sales Manager,2022-09-20,106437,11916.0,4.9,2.8,28,Non-binary,Master's
+EMP-0852,HR,People Ops,2021-12-11,157411,21874.0,4.7,4.2,55,Non-binary,Master's
+EMP-0853,Engineering,Tech Lead,2018-01-15,144005,9238.0,1.4,3.4,60,Female,Bachelor's
+EMP-0854,HR,HR Generalist,2019-01-28,70340,4379.0,1.6,2.6,49,Non-binary,Bachelor's
+EMP-0855,Sales,Sales Manager,2017-06-19,97695,7292.0,4.2,2.7,45,Non-binary,Master's
+EMP-0856,Sales,Sales Rep,2018-02-02,86061,3635.0,4.1,1.5,57,Male,Master's
+EMP-0857,Marketing,Content Manager,2020-09-21,113910,14460.0,3.5,1.4,47,Male,Bachelor's
+EMP-0858,Marketing,Content Manager,2021-01-10,105686,14909.0,3.6,4.0,34,Male,Master's
+EMP-0859,Engineering,Senior Engineer,2018-11-16,101004,6530.0,4.3,4.8,22,Male,Bachelor's
+EMP-0860,Sales,BDR,2020-02-12,84346,12374.0,3.3,1.8,32,Non-binary,Bachelor's
+EMP-0861,Finance,Financial Analyst,2021-11-04,125850,13194.0,4.5,3.2,32,Female,Bachelor's
+EMP-0862,Sales,Sales Manager,2022-02-12,77012,8146.0,2.3,3.7,53,Female,High School
+EMP-0863,HR,HR Manager,2020-01-24,99598,2918.0,2.9,3.3,48,Male,Master's
+EMP-0864,Sales,BDR,2021-08-12,108885,9338.0,4.4,2.5,54,Male,Master's
+EMP-0865,Sales,Account Executive,2020-09-03,82918,467.0,2.3,2.3,26,Non-binary,Master's
+EMP-0866,Operations,Project Manager,2016-06-13,93938,7241.0,2.7,2.2,38,Male,High School
+EMP-0867,HR,HR Generalist,2017-10-28,98216,8940.0,1.5,2.2,35,Male,Bachelor's
+EMP-0868,Sales,Account Executive,2019-04-11,66777,6140.0,2.1,4.8,28,Female,Master's
+EMP-0869,Sales,Sales Rep,2017-02-08,105818,7542.0,4.6,3.1,22,Non-binary,Master's
+EMP-0870,Marketing,SEO Specialist,2020-09-06,85256,880.0,3.5,2.9,58,Female,Bachelor's
+EMP-0871,Engineering,Tech Lead,2021-07-15,121787,6548.0,2.1,4.4,44,Female,Bachelor's
+EMP-0872,Marketing,Brand Manager,2015-05-29,99417,14252.0,2.9,3.4,49,Non-binary,High School
+EMP-0873,Finance,Financial Analyst,2020-11-01,129806,10097.0,1.3,4.3,41,Non-binary,Bachelor's
+EMP-0874,HR,Recruiter,2021-09-01,83786,7593.0,2.8,1.1,41,Non-binary,PhD
+EMP-0875,Sales,Sales Manager,2015-03-31,82866,8241.0,2.5,1.0,44,Non-binary,Master's
+EMP-0876,Operations,Operations Analyst,2020-05-17,114290,3956.0,1.2,1.7,62,Female,Bachelor's
+EMP-0877,Marketing,Brand Manager,2023-10-09,80179,5968.0,4.3,3.5,42,Male,Bachelor's
+EMP-0878,Marketing,Content Manager,2018-09-21,133069,11680.0,2.0,1.9,35,Female,Master's
+EMP-0879,Marketing,Brand Manager,2017-04-23,113038,889.0,4.2,4.0,35,Non-binary,Bachelor's
+EMP-0880,Marketing,SEO Specialist,2022-08-05,92726,9160.0,4.2,3.3,40,Male,Bachelor's
+EMP-0881,Operations,COO Staff,2021-11-03,65763,5541.0,3.8,1.6,38,Male,Master's
+EMP-0882,Engineering,Tech Lead,2016-04-13,190201,26158.0,2.5,1.4,26,Non-binary,Master's
+EMP-0883,Engineering,Senior Engineer,2018-06-25,144297,15523.0,4.9,4.9,32,Non-binary,Bachelor's
+EMP-0884,Sales,Account Executive,2019-08-18,84539,1613.0,4.0,3.3,33,Male,Bachelor's
+EMP-0885,Sales,Account Executive,2021-11-28,117796,3315.0,3.6,2.3,58,Female,Bachelor's
+EMP-0886,Finance,Accountant,2022-03-10,85430,6184.0,4.5,2.3,60,Female,Master's
+EMP-0887,HR,HR Manager,2016-02-23,107311,2614.0,4.4,4.2,61,Non-binary,Bachelor's
+EMP-0888,HR,Recruiter,2020-07-01,116119,7104.0,2.4,2.8,35,Male,Master's
+EMP-0889,Engineering,Senior Engineer,2017-10-02,105615,3557.0,4.0,3.8,55,Female,Bachelor's
+EMP-0890,Marketing,SEO Specialist,2018-03-22,81378,8997.0,1.9,4.2,40,Non-binary,Master's
+EMP-0891,Sales,BDR,2020-11-26,110377,11791.0,1.9,2.7,55,Male,Bachelor's
+EMP-0892,Marketing,SEO Specialist,2017-05-31,83471,450.0,4.4,4.8,37,Female,Bachelor's
+EMP-0893,Engineering,Tech Lead,2022-08-18,99426,14690.0,4.2,2.7,23,Female,PhD
+EMP-0894,Operations,Project Manager,2019-01-06,94750,6763.0,2.3,4.6,23,Non-binary,High School
+EMP-0895,Engineering,Software Engineer,2017-01-05,102811,13728.0,3.9,1.8,43,Female,Bachelor's
+EMP-0896,Engineering,DevOps Engineer,2016-07-12,170198,4877.0,3.2,4.6,28,Female,PhD
+EMP-0897,Marketing,Brand Manager,2019-08-17,96357,10751.0,4.0,1.5,38,Female,Bachelor's
+EMP-0898,HR,HR Generalist,2017-12-28,102651,4956.0,4.3,2.6,56,Female,Bachelor's
+EMP-0899,Finance,Financial Analyst,2022-03-01,83646,4428.0,3.4,1.8,49,Non-binary,Bachelor's
+EMP-0900,Marketing,Content Manager,2018-12-26,104401,12420.0,2.7,3.7,35,Male,Master's
+EMP-0901,Operations,Project Manager,2019-12-26,75467,938.0,2.8,1.7,57,Male,Bachelor's
+EMP-0902,Sales,Sales Manager,2023-03-08,88759,6248.0,3.6,1.6,46,Male,Master's
+EMP-0903,Marketing,SEO Specialist,2022-07-31,101849,8911.0,1.1,3.4,61,Non-binary,Bachelor's
+EMP-0904,Finance,Financial Analyst,2015-02-20,176578,12759.0,3.2,3.0,58,Female,Bachelor's
+EMP-0905,Finance,Accountant,2022-03-31,127749,2363.0,4.6,3.3,57,Non-binary,Bachelor's
+EMP-0906,HR,HR Generalist,2021-09-17,72535,7572.0,1.0,1.6,27,Female,Bachelor's
+EMP-0907,HR,HR Manager,2020-01-30,120103,3797.0,1.8,1.7,52,Male,Bachelor's
+EMP-0908,Finance,FP&A Manager,2019-11-08,135564,16457.0,4.7,2.5,56,Non-binary,Bachelor's
+EMP-0909,Engineering,Software Engineer,2015-09-01,119128,12730.0,3.8,2.4,27,Female,Master's
+EMP-0910,Sales,BDR,2023-03-26,95269,5197.0,4.2,4.0,27,Male,Bachelor's
+EMP-0911,HR,People Ops,2017-04-19,65910,6726.0,5.0,4.1,51,Female,Bachelor's
+EMP-0912,Engineering,Tech Lead,2020-01-23,165638,15104.0,5.0,4.5,41,Male,Bachelor's
+EMP-0913,Marketing,Content Manager,2018-02-06,87807,10130.0,1.7,1.4,44,Non-binary,Master's
+EMP-0914,Finance,FP&A Manager,2022-03-17,78290,11379.0,1.0,3.5,54,Male,Bachelor's
+EMP-0915,Operations,Logistics Coord,2023-01-30,83491,9128.0,4.3,3.3,42,Male,Master's
+EMP-0916,Sales,Sales Rep,2023-10-31,84811,758.0,2.4,3.7,37,Non-binary,Bachelor's
+EMP-0917,Operations,Logistics Coord,2017-06-16,95472,11222.0,2.0,4.6,32,Female,Bachelor's
+EMP-0918,Marketing,SEO Specialist,2022-11-04,105767,9121.0,4.5,2.1,35,Non-binary,PhD
+EMP-0919,HR,HR Generalist,2015-04-18,85968,6923.0,1.3,2.1,62,Female,Bachelor's
+EMP-0920,Operations,Project Manager,2020-12-02,160664,15697.0,4.0,1.7,49,Non-binary,Master's
+EMP-0921,Engineering,Software Engineer,2016-02-23,182071,4519.0,2.2,4.9,46,Female,Bachelor's
+EMP-0922,Sales,Account Executive,2024-01-08,111559,8170.0,1.6,3.4,51,Non-binary,Master's
+EMP-0923,Finance,FP&A Manager,2022-09-12,97588,4657.0,1.3,2.9,35,Male,Bachelor's
+EMP-0924,Engineering,Senior Engineer,2020-08-05,124013,11134.0,1.0,2.6,41,Non-binary,Bachelor's
+EMP-0925,HR,HR Manager,2023-08-15,126979,7005.0,2.9,3.0,24,Non-binary,Bachelor's
+EMP-0926,Marketing,Content Manager,2017-03-28,74949,10399.0,1.7,4.8,58,Female,Bachelor's
+EMP-0927,Sales,Sales Rep,2016-02-16,75088,4019.0,3.4,3.0,61,Female,PhD
+EMP-0928,Operations,Logistics Coord,2022-05-11,86393,5603.0,1.3,2.2,35,Male,Bachelor's
+EMP-0929,Finance,Financial Analyst,2022-10-03,107970,9205.0,2.0,2.4,46,Non-binary,Bachelor's
+EMP-0930,Operations,COO Staff,2017-04-28,115298,6934.0,2.7,4.6,34,Female,High School
+EMP-0931,Sales,Sales Manager,2023-06-19,85636,8207.0,1.9,4.5,35,Female,Bachelor's
+EMP-0932,Sales,Account Executive,2017-05-17,146386,15635.0,3.4,2.6,50,Female,Bachelor's
+EMP-0933,Marketing,Content Manager,2022-07-03,93850,8551.0,1.0,3.7,40,Male,PhD
+EMP-0934,Sales,Sales Rep,2018-08-17,68712,2895.0,1.6,2.0,51,Non-binary,Bachelor's
+EMP-0935,HR,HR Manager,2017-03-17,68103,1448.0,3.5,4.8,39,Non-binary,Bachelor's
+EMP-0936,Engineering,Software Engineer,2021-10-14,125108,11795.0,1.8,4.7,41,Male,Bachelor's
+EMP-0937,Marketing,Marketing Analyst,2022-09-03,86883,4083.0,2.1,2.6,48,Non-binary,Master's
+EMP-0938,HR,People Ops,2019-05-16,135504,9743.0,4.4,1.7,60,Non-binary,Bachelor's
+EMP-0939,Marketing,Marketing Analyst,2017-04-24,77277,2557.0,3.0,4.1,57,Male,Master's
+EMP-0940,HR,HR Generalist,2022-06-22,91790,11854.0,1.5,3.3,26,Female,Master's
+EMP-0941,Sales,Sales Rep,2018-06-16,117416,12941.0,2.4,4.8,48,Non-binary,High School
+EMP-0942,Marketing,SEO Specialist,2019-06-20,124970,548.0,2.7,4.5,32,Non-binary,Bachelor's
+EMP-0943,Sales,BDR,2023-06-13,64285,104.0,4.7,2.5,45,Non-binary,Bachelor's
+EMP-0944,Marketing,Content Manager,2021-09-19,115795,799.0,3.2,2.3,24,Female,Bachelor's
+EMP-0945,Marketing,Marketing Analyst,2023-04-06,97998,12303.0,3.9,4.0,26,Male,Bachelor's
+EMP-0946,Marketing,Brand Manager,2017-08-17,77153,10106.0,3.5,4.8,62,Non-binary,Master's
+EMP-0947,Operations,Operations Analyst,2015-05-25,82756,5768.0,1.6,1.2,35,Male,Bachelor's
+EMP-0948,Finance,Accountant,2021-01-24,109311,10121.0,2.4,1.4,29,Male,Master's
+EMP-0949,Finance,FP&A Manager,2022-06-02,132684,9110.0,1.6,3.2,51,Female,PhD
+EMP-0950,Finance,Accountant,2022-02-13,95472,7896.0,2.2,1.5,46,Female,Bachelor's
+EMP-0951,Sales,Sales Manager,2018-10-19,100019,6894.0,1.8,4.6,31,Male,Bachelor's
+EMP-0952,Engineering,Tech Lead,2021-05-07,173057,15949.0,1.5,3.0,50,Male,High School
+EMP-0953,Finance,Financial Analyst,2023-07-07,76036,54.0,2.1,4.7,35,Non-binary,Bachelor's
+EMP-0954,Sales,Sales Rep,2016-04-20,161014,18230.0,1.3,4.8,50,Non-binary,Bachelor's
+EMP-0955,Marketing,Marketing Analyst,2020-02-05,127682,14422.0,2.1,4.8,25,Female,Bachelor's
+EMP-0956,Marketing,Brand Manager,2021-05-25,78699,6592.0,3.6,1.0,55,Female,PhD
+EMP-0957,Operations,Logistics Coord,2022-07-24,73861,4185.0,1.9,3.7,48,Male,Bachelor's
+EMP-0958,Engineering,Tech Lead,2017-08-10,113062,2251.0,3.0,1.8,22,Non-binary,Bachelor's
+EMP-0959,Operations,Logistics Coord,2020-05-03,72267,4454.0,1.6,2.7,43,Non-binary,Bachelor's
+EMP-0960,Operations,Logistics Coord,2017-05-11,91400,7217.0,1.3,2.7,42,Female,Bachelor's
+EMP-0961,Engineering,DevOps Engineer,2019-08-09,127454,15725.0,2.1,2.9,34,Male,Master's
+EMP-0962,Finance,Financial Analyst,2021-10-09,82547,8035.0,4.8,3.1,43,Non-binary,Bachelor's
+EMP-0963,Engineering,Tech Lead,2015-08-06,126268,1776.0,2.5,1.5,45,Male,Master's
+EMP-0964,Operations,COO Staff,2021-08-22,119391,264.0,4.1,4.8,56,Male,Master's
+EMP-0965,Operations,Project Manager,2015-12-01,105024,6287.0,4.3,2.6,31,Female,High School
+EMP-0966,Finance,Accountant,2021-03-27,146488,6035.0,2.9,4.1,51,Male,Bachelor's
+EMP-0967,Finance,Accountant,2020-08-04,130045,13060.0,2.8,1.2,27,Male,Master's
+EMP-0968,Operations,Logistics Coord,2022-01-12,104334,8682.0,1.7,3.1,28,Male,Bachelor's
+EMP-0969,Engineering,Tech Lead,2022-01-20,138504,18406.0,1.4,4.0,36,Male,Bachelor's
+EMP-0970,Sales,Sales Manager,2020-12-21,122082,11478.0,2.2,4.2,58,Female,Bachelor's
+EMP-0971,Finance,Financial Analyst,2020-01-24,89357,5627.0,3.9,3.4,37,Female,Bachelor's
+EMP-0972,Engineering,Tech Lead,2016-01-01,110527,11052.0,1.8,1.2,23,Female,Master's
+EMP-0973,HR,HR Generalist,2022-11-18,97939,13660.0,2.6,3.9,57,Non-binary,Bachelor's
+EMP-0974,HR,HR Manager,2023-12-05,140393,13498.0,1.1,3.4,53,Male,Bachelor's
+EMP-0975,Finance,Financial Analyst,2019-05-14,126428,10887.0,3.4,1.9,39,Female,Master's
+EMP-0976,Engineering,Tech Lead,2018-06-20,131470,9830.0,2.8,1.3,36,Non-binary,Bachelor's
+EMP-0977,Marketing,Brand Manager,2015-11-01,87516,5358.0,4.8,4.9,59,Non-binary,PhD
+EMP-0978,Engineering,DevOps Engineer,2021-12-31,101202,434.0,2.8,3.8,46,Female,PhD
+EMP-0979,Finance,FP&A Manager,2016-02-14,100947,10562.0,4.2,4.1,58,Male,Master's
+EMP-0980,Finance,Controller,2020-05-25,124145,734.0,4.5,2.5,51,Male,Master's
+EMP-0981,Marketing,Brand Manager,2019-04-23,107252,13786.0,3.8,1.4,49,Female,Bachelor's
+EMP-0982,HR,People Ops,2023-09-02,80136,9529.0,1.4,1.3,29,Male,High School
+EMP-0983,HR,HR Generalist,2022-10-07,67996,3443.0,3.1,3.3,45,Non-binary,Bachelor's
+EMP-0984,Operations,Project Manager,2023-02-03,107557,14059.0,1.5,2.8,27,Female,High School
+EMP-0985,Operations,Project Manager,2023-12-14,100435,9462.0,3.6,3.1,55,Female,High School
+EMP-0986,HR,Recruiter,2018-02-21,61689,8825.0,1.6,3.4,53,Non-binary,Bachelor's
+EMP-0987,Marketing,Marketing Analyst,2017-06-16,67878,9174.0,3.2,4.3,22,Non-binary,High School
+EMP-0988,Engineering,Software Engineer,2018-11-12,126816,10541.0,4.3,4.7,58,Non-binary,Master's
+EMP-0989,Engineering,Tech Lead,2018-09-25,102566,11320.0,1.6,2.4,57,Female,High School
+EMP-0990,Operations,Operations Analyst,2016-08-08,125115,12803.0,2.8,3.4,22,Female,Bachelor's
+EMP-0991,HR,HR Generalist,2020-10-15,141414,16228.0,4.1,2.7,39,Non-binary,Master's
+EMP-0992,Marketing,Brand Manager,2019-08-26,93918,1120.0,3.8,2.6,50,Non-binary,PhD
+EMP-0993,Engineering,DevOps Engineer,2021-09-14,137311,8466.0,4.7,3.3,41,Non-binary,Master's
+EMP-0994,Operations,COO Staff,2018-01-19,117429,12459.0,3.5,2.8,56,Non-binary,Master's
+EMP-0995,Operations,Logistics Coord,2017-11-22,79008,3886.0,1.7,2.8,52,Male,Bachelor's
+EMP-0996,Finance,FP&A Manager,2018-08-12,105181,6783.0,2.1,4.4,56,Male,Bachelor's
+EMP-0997,Operations,COO Staff,2023-01-10,136999,7562.0,1.1,1.9,58,Male,PhD
+EMP-0998,Marketing,Brand Manager,2023-01-08,72916,883.0,4.5,1.1,37,Female,Master's
+EMP-0999,Operations,Logistics Coord,2021-02-13,91282,9088.0,4.7,4.7,41,Male,Bachelor's
+EMP-1000,Marketing,SEO Specialist,2022-09-16,137064,14960.0,4.2,4.4,33,Male,Bachelor's
